@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.070,D:\Construc\DelphiXE2\ProCards\Grants.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\ProCards\R_Reports.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\ProCards\Unit1.dfm=D:\Construc\Delphi2010\ProCards\DatSetSign.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\ProCards\Unit1.pas=D:\Construc\Delphi2010\ProCards\DatSetSign.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\ProCards\DatReport.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\ProCards\RepUniGrid.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\ProCards\Users.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\ProCards\DatUser.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\ProCards\Setups.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\ProCards\R_Reports.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\ProCards\RepUniGrid.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\ProCards\DatReport.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Construc\Delphi2010\ProCards\Setups.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\ProCards\DatUser.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Construc\Delphi2010\ProCards\Users.dfm=</Transaction>
+    <Transaction>2015.10.07 10:20:45.374,D:\Construc\DelphiXE7\ProCards\ProgressBar.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,1513 @@
+2011-09-27 19:23:31 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-09-27 19:23:31 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-09-28 16:17:28 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-09-28 16:17:28 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-09-28 16:18:22 Невозможно получение данных по филиалу. Филиал: 5409
+2011-09-29 13:38:13 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-09-29 13:38:13 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-09-29 13:38:13 Ошибка: невозможно отправить почту не указан email по ПИНам
+2011-09-29 13:38:13 Ошибка: невозможно отправить почту не указан email по картам
+2011-09-30 11:14:25 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-09-30 11:14:25 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-03 08:43:24 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-03 08:43:24 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-03 08:55:53 Ошибка: удаление карт. продукта Ошибка при удалении записи: 788888
+2011-10-03 08:55:53 Ошибка: удаление карт. продукта Текст ошибки: Error 7200:  AQE Error:  State = S0000;   NativeError = 2124;  [iAnywhere Solutions][Advantage SQL Engine]Invalid operand for operator: =
+2011-10-03 08:55:53 Ошибка: удаление карт. продукта Последняя команда: Delete from R_CardProducts where Code = 788888
+2011-10-03 08:55:59 Ошибка: удаление карт. продукта Ошибка при удалении записи: 788888
+2011-10-03 08:55:59 Ошибка: удаление карт. продукта Текст ошибки: Error 7200:  AQE Error:  State = S0000;   NativeError = 2124;  [iAnywhere Solutions][Advantage SQL Engine]Invalid operand for operator: =
+2011-10-03 08:55:59 Ошибка: удаление карт. продукта Последняя команда: Delete from R_CardProducts where Code = 788888
+2011-10-03 09:17:22 Ошибка: Справочник филиалов. Ввод новой записи
+2011-10-03 09:17:22 Ошибка: Справочник филиалов. Текст ошибки: Error 7200:  AQE Error:  State = S0000;   NativeError = 2121;  [iAnywhere Solutions][Advantage SQL Engine]Column not found: sabsabsafb3 -- Location of error in the SQL statement is: 223
+2011-10-03 09:17:22 Ошибка: Справочник филиалов. Последняя команда: Insert into R_Branches(Code,Name,NameShort,ActNo,MandPersPins,MandPersCards,MandPostPins,MandPostCards,MandNoPins,MandNoCards,MandDatePins,MandDateCards,FilesPath,FilesMask,FilesBack) Values (8888,'sabsabsab2','sabvasbv1',sabsabsafb3,'6','9','7','10','8','11','2011-10-03','2011-10-04','12','13','14')
+2011-10-03 09:57:09 Создание бэкапа. Бэкап БД успешно создан
+2011-10-03 09:57:09 Создание архива базы данных. Имя файла архива: D:\Construc\Delphi2010\ProCards\DBBackup\PRC20111003095709.zip
+2011-10-03 18:24:13 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-03 18:24:14 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-03 18:27:05 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-03 18:27:06 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-03 18:30:44 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-03 18:30:44 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-03 18:30:44 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-03 18:30:45 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 09:11:47 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 09:11:48 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 09:11:48 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 09:11:48 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 16:17:45 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 16:17:45 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 16:17:46 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 16:17:46 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 16:27:51 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-04 16:42:15 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-04 17:08:51 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 17:08:52 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 17:08:52 Ошибка: невозможно отправить почту не указан email по ПИНам
+2011-10-04 17:08:52 Ошибка: невозможно отправить почту не указан email по картам
+2011-10-04 17:08:52 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 17:08:52 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 17:08:52 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 17:08:53 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-04 17:08:54 Создание бэкапа. Бэкап БД успешно создан
+2011-10-04 17:08:54 Создание архива базы данных. Имя файла архива: D:\Construc\Delphi2010\ProCards\DBBackup\PRC20111004170854.zip
+2011-10-05 10:28:29 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-05 10:28:29 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-05 10:28:29 Ошибка: невозможно отправить почту не указан email по ПИНам
+2011-10-05 10:28:29 Ошибка: невозможно отправить почту не указан email по картам
+2011-10-05 10:28:30 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-05 10:28:30 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-05 10:28:30 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-05 10:28:31 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-05 10:28:32 Создание бэкапа. Бэкап БД успешно создан
+2011-10-05 10:28:32 Создание архива базы данных. Имя файла архива: D:\Construc\Delphi2010\ProCards\DBBackup\PRC20111005102832.zip
+2011-10-05 10:28:59 Невозможно получение данных по филиалу. Филиал: 5412
+2011-10-05 10:28:59 Невозможно получение данных по филиалу. Филиал: 1411
+2011-10-05 10:28:59 Невозможно получение данных по филиалу. Филиал: 2475
+2011-10-05 10:28:59 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-05 10:28:59 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-05 10:28:59 Невозможно получение данных по филиалу. Филиал: 5414
+2011-10-05 10:28:59 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-05 10:28:59 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-05 10:36:19 Ошибка: Обработка коллекции. Загрузка файла: D:\Construc\Delphi2010\ProCards\Exchange\VE_20111005082834.txt
+2011-10-05 10:36:19 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 355
+2011-10-05 10:36:19 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (251,0043789,'АМИНОВ АБУБАКР МАНОНОВИЧ','AMINOV/ABUBAKR','А2127803','6773540031508473','677354','10/11','10/13','ABUBAKR AMINOV','121',Null,'VE_20111005082834.txt','1403_677354_MSI_20111005082946_4.txt')
+2011-10-05 10:36:19 Невозможно получение данных по филиалу. Филиал: 5412
+2011-10-05 10:36:19 Невозможно получение данных по филиалу. Филиал: 1411
+2011-10-05 10:36:19 Невозможно получение данных по филиалу. Филиал: 2475
+2011-10-05 10:36:19 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-05 10:36:19 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-05 10:36:19 Невозможно получение данных по филиалу. Филиал: 5414
+2011-10-05 10:36:19 Ошибка: Обработка коллекции. Загрузка файла: D:\Construc\Delphi2010\ProCards\Exchange\VE_20111005082834.txt
+2011-10-05 10:36:19 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 370
+2011-10-05 10:36:19 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (260,0050310,'АБДУЛНАЗАРОВ НАСИМ ЧОРШАНБИЕВИЧ','NASIM/ABDULNAZAROV','А3561602','6773540063678871','677354','10/11','10/13','ABDULNAZAROV NASIM','121',Null,'VE_20111005082834.txt','1477_677354_MSI_20111005082946_3.txt')
+2011-10-05 10:36:19 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-05 10:36:19 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-05 11:09:30 Ошибка: Обработка коллекции. Загрузка файла: D:\Construc\Delphi2010\ProCards\Exchange\VE_20111005082834.txt
+2011-10-05 11:09:30 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 355
+2011-10-05 11:09:30 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (263,0043789,'АМИНОВ АБУБАКР МАНОНОВИЧ','AMINOV/ABUBAKR','А2127803','6773540031508473','677354','10/11','10/13','ABUBAKR AMINOV','121',Null,'VE_20111005082834.txt','1403_677354_MSI_20111005082946_4.txt')
+2011-10-05 11:09:30 Невозможно получение данных по филиалу. Филиал: 5412
+2011-10-05 11:09:30 Невозможно получение данных по филиалу. Филиал: 1411
+2011-10-05 11:09:30 Невозможно получение данных по филиалу. Филиал: 2475
+2011-10-05 11:09:30 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-05 11:09:30 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-05 11:09:30 Невозможно получение данных по филиалу. Филиал: 5414
+2011-10-05 11:09:30 Ошибка: Обработка коллекции. Загрузка файла: D:\Construc\Delphi2010\ProCards\Exchange\VE_20111005082834.txt
+2011-10-05 11:09:30 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 370
+2011-10-05 11:09:30 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (272,0050310,'АБДУЛНАЗАРОВ НАСИМ ЧОРШАНБИЕВИЧ','NASIM/ABDULNAZAROV','А3561602','6773540063678871','677354','10/11','10/13','ABDULNAZAROV NASIM','121',Null,'VE_20111005082834.txt','1477_677354_MSI_20111005082946_3.txt')
+2011-10-05 11:09:30 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-05 11:09:30 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-05 11:43:27 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VE_20111005082834.txt
+2011-10-05 11:43:27 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 355
+2011-10-05 11:43:27 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (275,0043789,'АМИНОВ АБУБАКР МАНОНОВИЧ','AMINOV/ABUBAKR','А2127803','6773540031508473','677354','10/11','10/13','ABUBAKR AMINOV','121',Null,'VE_20111005082834.txt','1403_677354_MSI_20111005082946_4.txt')
+2011-10-05 11:43:28 Невозможно получение данных по филиалу. Филиал: 5412
+2011-10-05 11:43:28 Невозможно получение данных по филиалу. Филиал: 1411
+2011-10-05 11:43:28 Невозможно получение данных по филиалу. Филиал: 2475
+2011-10-05 11:43:28 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-05 11:43:28 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-05 11:43:28 Невозможно получение данных по филиалу. Филиал: 5414
+2011-10-05 11:43:28 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VE_20111005082834.txt
+2011-10-05 11:43:28 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 370
+2011-10-05 11:43:28 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (284,0050310,'АБДУЛНАЗАРОВ НАСИМ ЧОРШАНБИЕВИЧ','NASIM/ABDULNAZAROV','А3561602','6773540063678871','677354','10/11','10/13','ABDULNAZAROV NASIM','121',Null,'VE_20111005082834.txt','1477_677354_MSI_20111005082946_3.txt')
+2011-10-05 11:43:28 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-05 11:43:28 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-05 13:40:40 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VE_20111005082834.txt
+2011-10-05 13:40:40 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 355
+2011-10-05 13:40:40 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (287,0043789,'АМИНОВ АБУБАКР МАНОНОВИЧ','AMINOV/ABUBAKR','А2127803','6773540031508473','677354','10/11','10/13','ABUBAKR AMINOV','121',Null,'VE_20111005082834.txt','1403_677354_MSI_20111005082946_4.txt')
+2011-10-05 13:40:40 Невозможно получение данных по филиалу. Филиал: 5412
+2011-10-05 13:40:40 Невозможно получение данных по филиалу. Филиал: 1411
+2011-10-05 13:40:40 Невозможно получение данных по филиалу. Филиал: 2475
+2011-10-05 13:40:40 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-05 13:40:40 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-05 13:40:40 Невозможно получение данных по филиалу. Филиал: 5414
+2011-10-05 13:40:40 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VE_20111005082834.txt
+2011-10-05 13:40:40 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 370
+2011-10-05 13:40:40 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (296,0050310,'АБДУЛНАЗАРОВ НАСИМ ЧОРШАНБИЕВИЧ','NASIM/ABDULNAZAROV','А3561602','6773540063678871','677354','10/11','10/13','ABDULNAZAROV NASIM','121',Null,'VE_20111005082834.txt','1477_677354_MSI_20111005082946_3.txt')
+2011-10-05 13:40:40 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-05 13:40:40 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-06 09:46:59 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-06 09:46:59 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-06 09:46:59 Ошибка: невозможно отправить почту не указан email по ПИНам
+2011-10-06 09:46:59 Ошибка: невозможно отправить почту не указан email по картам
+2011-10-06 09:46:59 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-06 09:47:00 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-06 09:47:00 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-06 09:47:00 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-06 09:47:02 Создание бэкапа. Бэкап БД успешно создан
+2011-10-06 09:47:43 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 335
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (299,0085014,'КОРТИ ТУХФАВИ 5409','PRESENT/CARD','А0005409','7777770110077488','777777','09/11','09/14',Null,'521',Null,'VG_20111006083708.txt','5409_777777_KAD011_20111006083746_1.txt')
+2011-10-06 09:47:43 Невозможно получение данных по филиалу. Филиал: 5416
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 335
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (301,0084975,'КОРТИ ТУХФАВИ 5416','PRESENT/CARD','А0005416','7777770130012085','777777','07/11','07/14',Null,'521',Null,'VG_20111006083708.txt','5416_777777_KAD013_20111006083926_1.txt')
+2011-10-06 09:47:43 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-06 09:47:43 Невозможно получение данных по филиалу. Филиал: 5413
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 363
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (304,0069474,'НЕПОМНЯЩАЯ ИННА ИГОРЕВНА','NEPOMNYASHAYA/INNA','А5505151','6773540048019589','677354','10/11','10/13','INNA NEPOMNYASHAYA','121',Null,'VG_20111006083708.txt','1477_677354_MSI_20111006083725_4.txt')
+2011-10-06 09:47:43 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-06 09:47:43 Невозможно получение данных по филиалу. Филиал: 1415
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 358
+2011-10-06 09:47:43 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (307,0027185,'НОРОВА МАНЗУРА РАХИМБЕКОВНА','NOROVA/MANZURA','А1960336','6773540032360296','677354','10/11','10/13','NOROVA MANZURA','121',Null,'VG_20111006083708.txt','1403_677354_MSI_20111006083725_4.txt')
+2011-10-06 09:47:43 Невозможно получение данных по филиалу. Филиал: 1407
+2011-10-06 09:47:43 Невозможно получение данных по филиалу. Филиал: 9484
+2011-10-06 09:47:43 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-06 09:47:44 Невозможно получение данных по филиалу. Филиал: 1402
+2011-10-06 09:47:44 Невозможно получение данных по филиалу. Филиал: 5403
+2011-10-06 09:47:44 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 09:47:44 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 335
+2011-10-06 09:47:44 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (313,0085069,'КОРТИ ТУХФАВИ 5403','PRESENT/CARD','А1236547','7777770110174319','777777','08/11','08/14',Null,'521',Null,'VG_20111006083708.txt','5403_777777_KAD011_20111006083746_1.txt')
+2011-10-06 10:24:06 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-06 10:24:06 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:24:06 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 335
+2011-10-06 10:24:06 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (314,0085014,'КОРТИ ТУХФАВИ 5409','PRESENT/CARD','А0005409','7777770110077488','777777','09/11','09/14',Null,'521',Null,'VG_20111006083708.txt','5409_777777_KAD011_20111006083746_1.txt')
+2011-10-06 10:24:06 Невозможно получение данных по филиалу. Филиал: 5416
+2011-10-06 10:24:06 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:24:06 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 335
+2011-10-06 10:24:06 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (316,0084975,'КОРТИ ТУХФАВИ 5416','PRESENT/CARD','А0005416','7777770130012085','777777','07/11','07/14',Null,'521',Null,'VG_20111006083708.txt','5416_777777_KAD013_20111006083926_1.txt')
+2011-10-06 10:24:06 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-06 10:24:06 Невозможно получение данных по филиалу. Филиал: 5413
+2011-10-06 10:24:07 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:24:07 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 363
+2011-10-06 10:24:07 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (319,0069474,'НЕПОМНЯЩАЯ ИННА ИГОРЕВНА','NEPOMNYASHAYA/INNA','А5505151','6773540048019589','677354','10/11','10/13','INNA NEPOMNYASHAYA','121',Null,'VG_20111006083708.txt','1477_677354_MSI_20111006083725_4.txt')
+2011-10-06 10:24:07 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-06 10:24:07 Невозможно получение данных по филиалу. Филиал: 1415
+2011-10-06 10:24:07 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:24:07 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 358
+2011-10-06 10:24:07 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (322,0027185,'НОРОВА МАНЗУРА РАХИМБЕКОВНА','NOROVA/MANZURA','А1960336','6773540032360296','677354','10/11','10/13','NOROVA MANZURA','121',Null,'VG_20111006083708.txt','1403_677354_MSI_20111006083725_4.txt')
+2011-10-06 10:24:07 Невозможно получение данных по филиалу. Филиал: 1407
+2011-10-06 10:24:07 Невозможно получение данных по филиалу. Филиал: 9484
+2011-10-06 10:24:07 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-06 10:24:07 Невозможно получение данных по филиалу. Филиал: 1402
+2011-10-06 10:24:07 Невозможно получение данных по филиалу. Филиал: 5403
+2011-10-06 10:24:07 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:24:07 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 335
+2011-10-06 10:24:07 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (328,0085069,'КОРТИ ТУХФАВИ 5403','PRESENT/CARD','А1236547','7777770110174319','777777','08/11','08/14',Null,'521',Null,'VG_20111006083708.txt','5403_777777_KAD011_20111006083746_1.txt')
+2011-10-06 10:25:54 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 338
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (329,0085014,'КОРТИ ТУХФАВИ 5409','PRESENT/CARD','А0005409','7777770110077488','777777011','09/11','09/14',Null,'521',Null,'VG_20111006083708.txt','5409_777777011_KAD011_20111006083746_1.txt')
+2011-10-06 10:25:54 Невозможно получение данных по филиалу. Филиал: 5416
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 338
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (331,0084975,'КОРТИ ТУХФАВИ 5416','PRESENT/CARD','А0005416','7777770130012085','777777013','07/11','07/14',Null,'521',Null,'VG_20111006083708.txt','5416_777777013_KAD013_20111006083926_1.txt')
+2011-10-06 10:25:54 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-06 10:25:54 Невозможно получение данных по филиалу. Филиал: 5413
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 363
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (334,0069474,'НЕПОМНЯЩАЯ ИННА ИГОРЕВНА','NEPOMNYASHAYA/INNA','А5505151','6773540048019589','677354','10/11','10/13','INNA NEPOMNYASHAYA','121',Null,'VG_20111006083708.txt','1477_677354_MSI_20111006083725_5.txt')
+2011-10-06 10:25:54 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-06 10:25:54 Невозможно получение данных по филиалу. Филиал: 1415
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 358
+2011-10-06 10:25:54 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (337,0027185,'НОРОВА МАНЗУРА РАХИМБЕКОВНА','NOROVA/MANZURA','А1960336','6773540032360296','677354','10/11','10/13','NOROVA MANZURA','121',Null,'VG_20111006083708.txt','1403_677354_MSI_20111006083725_5.txt')
+2011-10-06 10:25:54 Невозможно получение данных по филиалу. Филиал: 1407
+2011-10-06 10:25:54 Невозможно получение данных по филиалу. Филиал: 9484
+2011-10-06 10:25:54 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-06 10:25:54 Невозможно получение данных по филиалу. Филиал: 1402
+2011-10-06 10:25:55 Невозможно получение данных по филиалу. Филиал: 5403
+2011-10-06 10:25:55 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:25:55 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 338
+2011-10-06 10:25:55 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (343,0085069,'КОРТИ ТУХФАВИ 5403','PRESENT/CARD','А1236547','7777770110174319','777777011','08/11','08/14',Null,'521',Null,'VG_20111006083708.txt','5403_777777011_KAD011_20111006083746_1.txt')
+2011-10-06 10:31:14 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-06 10:31:14 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:31:14 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 338
+2011-10-06 10:31:14 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (344,0085014,'КОРТИ ТУХФАВИ 5409','PRESENT/CARD','А0005409','7777770110077488','777777011','09/11','09/14',Null,'521',Null,'VG_20111006083708.txt','5409_777777011_KAD011_20111006083746_1.txt')
+2011-10-06 10:31:14 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:31:14 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 338
+2011-10-06 10:31:14 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (346,0084975,'КОРТИ ТУХФАВИ 5416','PRESENT/CARD','А0005416','7777770130012085','777777013','07/11','07/14',Null,'521',Null,'VG_20111006083708.txt','5416_777777013_KAD013_20111006083926_1.txt')
+2011-10-06 10:31:14 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-06 10:31:14 Невозможно получение данных по филиалу. Филиал: 5413
+2011-10-06 10:31:14 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:31:14 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 363
+2011-10-06 10:31:14 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (349,0069474,'НЕПОМНЯЩАЯ ИННА ИГОРЕВНА','NEPOMNYASHAYA/INNA','А5505151','6773540048019589','677354','10/11','10/13','INNA NEPOMNYASHAYA','121',Null,'VG_20111006083708.txt','1477_677354_MSI_20111006083725_5.txt')
+2011-10-06 10:31:14 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-06 10:31:14 Невозможно получение данных по филиалу. Филиал: 1415
+2011-10-06 10:31:15 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:31:15 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 358
+2011-10-06 10:31:15 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (352,0027185,'НОРОВА МАНЗУРА РАХИМБЕКОВНА','NOROVA/MANZURA','А1960336','6773540032360296','677354','10/11','10/13','NOROVA MANZURA','121',Null,'VG_20111006083708.txt','1403_677354_MSI_20111006083725_5.txt')
+2011-10-06 10:31:15 Невозможно получение данных по филиалу. Филиал: 1407
+2011-10-06 10:31:15 Невозможно получение данных по филиалу. Филиал: 9484
+2011-10-06 10:31:15 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-06 10:31:15 Невозможно получение данных по филиалу. Филиал: 1402
+2011-10-06 10:31:15 Ошибка: Обработка коллекции. Загрузка файла: C:\Lab\Temp\Files\VG_20111006083708.txt
+2011-10-06 10:31:15 Ошибка: Обработка коллекции. Текст ошибки: Error 7200:  AQE Error:  State = 01004;   NativeError = 2102;  [iAnywhere Solutions][Advantage SQL Engine]Data truncated, column: FNameDiv -- Location of error in the SQL statement is: 338
+2011-10-06 10:31:15 Ошибка: Обработка коллекции. Последняя команда: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (358,0085069,'КОРТИ ТУХФАВИ 5403','PRESENT/CARD','А1236547','7777770110174319','777777011','08/11','08/14',Null,'521',Null,'VG_20111006083708.txt','5403_777777011_KAD011_20111006083746_1.txt')
+2011-10-06 10:43:53 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-06 10:43:53 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-06 10:43:53 Невозможно получение данных по филиалу. Филиал: 5413
+2011-10-06 10:43:54 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-06 10:43:54 Невозможно получение данных по филиалу. Филиал: 1415
+2011-10-06 10:43:54 Невозможно получение данных по филиалу. Филиал: 1407
+2011-10-06 10:43:54 Невозможно получение данных по филиалу. Филиал: 9484
+2011-10-06 10:43:54 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-06 10:43:54 Невозможно получение данных по филиалу. Филиал: 1402
+2011-10-06 11:05:17 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-06 11:05:18 File File: \5409_777777011_KAD011_20111006083746_1.txt
+2011-10-06 11:05:18 File File: \5409_777777012_KAD012_20111006083903_2.txt
+2011-10-06 11:05:18 File File: \5409_777777_KAD20111006083627_3.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\5410_425552_VE_20111006083645_1.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\5410_777777_KAD20111006083627_2.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\5410_425551_VG_20111006083708_3.txt
+2011-10-06 11:05:18 File File: \5416_777777013_KAD013_20111006083926_1.txt
+2011-10-06 11:05:18 File File: \5416_777777013_KAD013_20111006083926_2.txt
+2011-10-06 11:05:18 File File: \5416_777777013_KAD013_20111006083926_3.txt
+2011-10-06 11:05:18 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-06 11:05:18 File File: \4444_777777_KAD20111006083627_1.txt
+2011-10-06 11:05:18 Невозможно получение данных по филиалу. Филиал: 5413
+2011-10-06 11:05:18 File File: \5413_777777_KAD20111006083627_1.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1477_425552_VE_20111006083645_1.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1477_777777_KAD20111006083627_2.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1477_777777_KAD20111006083627_3.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1477_777777_KAD20111006083627_4.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1477_677354_MSI_20111006083725_5.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1477_425551_VG_20111006083708_6.txt
+2011-10-06 11:05:18 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-06 11:05:18 File File: \9472_425552_VE_20111006083645_1.txt
+2011-10-06 11:05:18 Невозможно получение данных по филиалу. Филиал: 1415
+2011-10-06 11:05:18 File File: \1415_777777_KAD20111006083627_1.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1403_425552_VE_20111006083645_1.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1403_425552_VE_20111006083645_2.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1403_777777_KAD20111006083627_3.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1403_777777_KAD20111006083627_4.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1403_677354_MSI_20111006083725_5.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\1403_425550_VC_20111006083656_6.txt
+2011-10-06 11:05:18 Невозможно получение данных по филиалу. Филиал: 1407
+2011-10-06 11:05:18 File File: \1407_777777_KAD20111006083627_1.txt
+2011-10-06 11:05:18 File File: C:\Lab\Temp\5423_777777_KAD20111006083627_1.txt
+2011-10-06 11:05:18 Невозможно получение данных по филиалу. Филиал: 9484
+2011-10-06 11:05:18 File File: \9484_777777_KAD20111006083627_1.txt
+2011-10-06 11:05:18 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-06 11:05:18 File File: \9481_777777_KAD20111006083627_1.txt
+2011-10-06 11:05:18 Невозможно получение данных по филиалу. Филиал: 1402
+2011-10-06 11:05:18 File File: \1402_777777_KAD20111006083627_1.txt
+2011-10-06 11:05:18 File File: \5403_777777011_KAD011_20111006083746_1.txt
+2011-10-06 11:10:56 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\5409_777777011_KAD011_20111006083746_1.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\5409_777777012_KAD012_20111006083903_2.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\5409_777777_KAD20111006083627_3.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\5410_425552_VE_20111006083645_1.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\5410_777777_KAD20111006083627_2.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\5410_425551_VG_20111006083708_3.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\5416_777777013_KAD013_20111006083926_1.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\5416_777777013_KAD013_20111006083926_2.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\5416_777777013_KAD013_20111006083926_3.txt
+2011-10-06 11:10:56 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\4444_777777_KAD20111006083627_1.txt
+2011-10-06 11:10:56 Невозможно получение данных по филиалу. Филиал: 5413
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\5413_777777_KAD20111006083627_1.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1477_425552_VE_20111006083645_1.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1477_777777_KAD20111006083627_2.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1477_777777_KAD20111006083627_3.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1477_777777_KAD20111006083627_4.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1477_677354_MSI_20111006083725_5.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1477_425551_VG_20111006083708_6.txt
+2011-10-06 11:10:56 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\9472_425552_VE_20111006083645_1.txt
+2011-10-06 11:10:56 Невозможно получение данных по филиалу. Филиал: 1415
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\1415_777777_KAD20111006083627_1.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1403_425552_VE_20111006083645_1.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1403_425552_VE_20111006083645_2.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1403_777777_KAD20111006083627_3.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1403_777777_KAD20111006083627_4.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1403_677354_MSI_20111006083725_5.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\1403_425550_VC_20111006083656_6.txt
+2011-10-06 11:10:56 Невозможно получение данных по филиалу. Филиал: 1407
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\1407_777777_KAD20111006083627_1.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\5423_777777_KAD20111006083627_1.txt
+2011-10-06 11:10:56 Невозможно получение данных по филиалу. Филиал: 9484
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\9484_777777_KAD20111006083627_1.txt
+2011-10-06 11:10:56 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\9481_777777_KAD20111006083627_1.txt
+2011-10-06 11:10:56 Невозможно получение данных по филиалу. Филиал: 1402
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\1402_777777_KAD20111006083627_1.txt
+2011-10-06 11:10:56 File File: C:\Lab\Temp\Files\Backup\5403_777777011_KAD011_20111006083746_1.txt
+2011-10-06 11:20:13 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-06 11:20:14 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-06 11:20:14 Невозможно получение данных по филиалу. Филиал: 5413
+2011-10-06 11:20:14 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-06 11:20:14 Невозможно получение данных по филиалу. Филиал: 1415
+2011-10-06 11:20:14 Невозможно получение данных по филиалу. Филиал: 1407
+2011-10-06 11:20:14 Невозможно получение данных по филиалу. Филиал: 9484
+2011-10-06 11:20:14 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-06 11:20:14 Невозможно получение данных по филиалу. Филиал: 1402
+2011-10-06 11:23:32 Невозможно получение данных по филиалу. Филиал: 5409
+2011-10-06 11:23:32 Невозможно получение данных по филиалу. Филиал: 4444
+2011-10-06 11:23:32 Невозможно получение данных по филиалу. Филиал: 5413
+2011-10-06 11:23:33 Невозможно получение данных по филиалу. Филиал: 9472
+2011-10-06 11:23:33 Невозможно получение данных по филиалу. Филиал: 1415
+2011-10-06 11:23:33 Невозможно получение данных по филиалу. Филиал: 1407
+2011-10-06 11:23:33 Невозможно получение данных по филиалу. Филиал: 9484
+2011-10-06 11:23:33 Невозможно получение данных по филиалу. Филиал: 9481
+2011-10-06 11:23:33 Невозможно получение данных по филиалу. Филиал: 1402
+2011-10-07 10:59:30 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-07 10:59:30 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-07 10:59:30 Ошибка: невозможно отправить почту не указан email по ПИНам
+2011-10-07 10:59:30 Ошибка: невозможно отправить почту не указан email по картам
+2011-10-07 10:59:30 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-07 10:59:31 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-07 10:59:31 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-07 10:59:31 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-07 10:59:32 Создание бэкапа. Бэкап БД успешно создан
+2011-10-10 14:30:46 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-10 14:30:46 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-10 14:30:46 Ошибка: невозможно отправить почту не указан email по ПИНам
+2011-10-10 14:30:46 Ошибка: невозможно отправить почту не указан email по картам
+2011-10-10 14:30:46 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-10 14:30:46 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-10 14:30:47 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-10 14:30:47 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-10 14:30:48 Создание бэкапа. Бэкап БД успешно создан
+2011-10-10 14:32:25 Невозможно получение данных по филиалу. Филиал: 2021697298
+2011-10-10 14:32:26 Невозможно получение данных по филиалу. Филиал: 2021697288
+2011-10-10 14:32:26 Невозможно получение данных по филиалу. Филиал: 2021697248
+2011-10-10 14:32:26 Невозможно получение данных по филиалу. Филиал: 2021697208
+2011-10-10 14:32:26 Невозможно получение данных по филиалу. Филиал: 2021697268
+2011-10-10 14:32:26 Невозможно получение данных по филиалу. Филиал: 2021697258
+2011-10-10 14:32:26 Невозможно получение данных по филиалу. Филиал: 2021697238
+2011-10-10 14:32:26 Невозможно получение данных по филиалу. Филиал: 2021697228
+2011-10-10 14:32:26 Невозможно получение данных по филиалу. Филиал: 2021697278
+2011-10-10 14:32:26 Невозможно получение данных по филиалу. Филиал: 2021697218
+2011-10-10 14:34:17 Невозможно получение данных по филиалу. Филиал: 5849
+2011-10-13 11:50:07 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-13 11:50:08 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-13 11:50:08 Ошибка: невозможно отправить почту не указан email по ПИНам
+2011-10-13 11:50:08 Ошибка: невозможно отправить почту не указан email по картам
+2011-10-13 11:50:08 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-13 11:50:08 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-13 11:50:09 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-13 11:50:09 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2011-10-13 11:50:10 Создание бэкапа. Бэкап БД успешно создан
+2012-01-03 15:38:23 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-01-03 15:38:23 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-01-03 15:38:23 Ошибка: невозможно отправить почту не указан email по ПИНам
+2012-01-03 15:38:23 Ошибка: невозможно отправить почту не указан email по картам
+2012-01-03 15:38:23 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-01-03 15:38:24 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-01-03 15:38:24 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-01-03 15:38:24 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-01-03 15:38:25 Создание бэкапа. Бэкап БД успешно создан
+2012-02-01 09:15:42 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-02-01 09:15:43 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-02-01 09:15:43 Ошибка: невозможно отправить почту не указан email по ПИНам
+2012-02-01 09:15:43 Ошибка: невозможно отправить почту не указан email по картам
+2012-02-01 09:15:43 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-02-01 09:15:43 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-02-01 09:15:43 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-02-01 09:15:43 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj
+2012-02-01 09:15:45 Создание бэкапа. Бэкап БД успешно создан
+2012-02-01 09:17:58 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, naminzoda@agroinvestban, khulugov@agroinvestbank.tj
+2012-02-01 09:17:58 Отправка email. Кaрты: khulugov@agroinvestbank.tj, naminzoda@agroinvestban, khulugov@agroinvestbank.tj
+2012-02-01 09:17:58 Ошибка: невозможно отправить почту не указан email по ПИНам
+2012-02-01 09:17:58 Ошибка: невозможно отправить почту не указан email по картам
+2012-02-01 09:17:58 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, naminzoda@agroinvestban, khulugov@agroinvestbank.tj
+2012-02-01 09:17:58 Отправка email. Кaрты: khulugov@agroinvestbank.tj, naminzoda@agroinvestban, khulugov@agroinvestbank.tj
+2012-02-01 09:17:58 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, naminzoda@agroinvestban, khulugov@agroinvestbank.tj
+2012-02-01 09:17:59 Отправка email. Кaрты: khulugov@agroinvestbank.tj, naminzoda@agroinvestban, khulugov@agroinvestbank.tj
+2012-02-01 09:17:59 Создание бэкапа. Бэкап БД успешно создан
+2012-02-01 09:21:53 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj, naminzoda@agroinvestbank.tj
+2012-02-01 09:21:53 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj, naminzoda@agroinvestbank.tj
+2012-02-01 09:21:53 Ошибка: невозможно отправить почту не указан email по ПИНам
+2012-02-01 09:21:53 Ошибка: невозможно отправить почту не указан email по картам
+2012-02-01 09:21:53 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj, naminzoda@agroinvestbank.tj
+2012-02-01 09:21:54 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj, naminzoda@agroinvestbank.tj
+2012-02-01 09:21:54 Отправка email. ПИН-конверты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj, naminzoda@agroinvestbank.tj
+2012-02-01 09:21:54 Отправка email. Кaрты: khulugov@agroinvestbank.tj, khulugov@agroinvestbank.tj, naminzoda@agroinvestbank.tj
+2012-02-01 09:21:55 Создание бэкапа. Бэкап БД успешно создан
+2012-03-15 17:37:32 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2012-03-15 17:37:32 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10060
+Connection timed out.
+2012-03-15 17:37:32 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2012-03-15 17:37:32 Ошибка: Отправка e-mail Имя пользователя: plcard
+2012-03-15 17:37:32 Ошибка: Отправка e-mail Пароль: 
+2012-03-15 17:37:32 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2012-03-15 17:37:32 Ошибка: Отправка e-mail От имени: Хуршед
+2012-03-15 17:37:34 Создание бэкапа. Бэкап БД успешно создан
+2012-08-30 09:11:39 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2012-08-30 09:11:39 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10065
+No route to host.
+2012-08-30 09:11:39 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2012-08-30 09:11:39 Ошибка: Отправка e-mail Имя пользователя: plcard
+2012-08-30 09:11:39 Ошибка: Отправка e-mail Пароль: 
+2012-08-30 09:11:39 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2012-08-30 09:11:39 Ошибка: Отправка e-mail От имени: Хуршед
+2012-08-30 09:11:40 Создание бэкапа. Бэкап БД успешно создан
+2012-09-03 16:33:48 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2012-09-03 16:33:48 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10065
+No route to host.
+2012-09-03 16:33:48 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2012-09-03 16:33:48 Ошибка: Отправка e-mail Имя пользователя: plcard
+2012-09-03 16:33:48 Ошибка: Отправка e-mail Пароль: 
+2012-09-03 16:33:48 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2012-09-03 16:33:48 Ошибка: Отправка e-mail От имени: Хуршед
+2012-09-03 16:33:49 Создание бэкапа. Бэкап БД успешно создан
+2012-09-03 16:35:48 Невозможно получение данных по филиалу. Филиал: 5409
+2012-09-03 16:41:07 Невозможно получение данных по филиалу. Филиал: 5409
+2012-09-04 11:10:39 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2012-09-04 11:10:39 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10065
+No route to host.
+2012-09-04 11:10:39 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2012-09-04 11:10:39 Ошибка: Отправка e-mail Имя пользователя: plcard
+2012-09-04 11:10:39 Ошибка: Отправка e-mail Пароль: 
+2012-09-04 11:10:39 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2012-09-04 11:10:39 Ошибка: Отправка e-mail От имени: Хуршед
+2012-09-04 11:10:41 Создание бэкапа. Бэкап БД успешно создан
+2012-09-04 11:40:53 Невозможно получение данных по филиалу. Филиал: 5409
+2012-09-04 11:42:10 Невозможно получение данных по филиалу. Филиал: 5409
+2012-09-04 11:43:35 Невозможно получение данных по филиалу. Филиал: 5409
+2012-09-04 14:36:45 Ошибка: Издательские пакеты. Удаление за период
+2012-09-04 14:36:45 Ошибка: Издательские пакеты. Текст ошибки: Error 7200:  AQE Error:  State = 42000;   NativeError = 2117;  [iAnywhere Solutions][Advantage SQL Engine]Unexpected token: ) -- Expecting semicolon. -- Location of error in the SQL statement is: 76
+2012-09-04 14:36:45 Ошибка: Издательские пакеты. Последняя команда: Delete from S_IssHeads Where PackDate between '2011-09-28' and '2011-10-06')
+2012-09-27 06:32:44 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2012-09-27 06:32:44 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10065
+No route to host.
+2012-09-27 06:32:44 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2012-09-27 06:32:44 Ошибка: Отправка e-mail Имя пользователя: plcard
+2012-09-27 06:32:44 Ошибка: Отправка e-mail Пароль: 
+2012-09-27 06:32:44 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2012-09-27 06:32:44 Ошибка: Отправка e-mail От имени: Хуршед
+2012-09-27 06:32:46 Создание бэкапа. Бэкап БД успешно создан
+2014-08-14 16:53:43 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2014-08-14 16:53:43 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10060
+Connection timed out.
+2014-08-14 16:53:43 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2014-08-14 16:53:43 Ошибка: Отправка e-mail Имя пользователя: plcard
+2014-08-14 16:53:43 Ошибка: Отправка e-mail Пароль: 
+2014-08-14 16:53:43 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2014-08-14 16:53:43 Ошибка: Отправка e-mail От имени: Хуршед
+2014-08-14 16:53:43 Создание бэкапа. Бэкап БД успешно создан
+2015-01-12 16:56:31 ERR: 5631.118-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys]-300. Driver [ADS] is not registered.
+To register it, you can drop component [TADPhysADSDriverLink] into your project
+2015-01-12 16:58:03 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2015-01-12 16:58:03 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10060
+Connection timed out.
+2015-01-12 16:58:03 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2015-01-12 16:58:03 Ошибка: Отправка e-mail Имя пользователя: plcard
+2015-01-12 16:58:03 Ошибка: Отправка e-mail Пароль: 
+2015-01-12 16:58:03 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2015-01-12 16:58:03 Ошибка: Отправка e-mail От имени: Хуршед
+2015-01-12 16:58:04 Ошибка: создание бэкапа. Запуск хранимой процедуры бэкапирования
+2015-01-12 16:58:04 Ошибка: создание бэкапа. Текст ошибки: [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = 42000;   NativeError = 2115;  [iAnywhere Solutions][Advantage SQL Engine]Expected lexical element not found: Your statement must start with CREATE, DROP, SELECT, INSERT, UPDATE, ALTER, EXECUTE, DELETE, GRANT, REVOKE, BEGIN, COMMIT, ROLLBACK, SAVEPOINT, SET, DEBUG or a script statement. -- Location of error in the SQL statement is: 1
+2015-01-12 16:58:04 Ошибка: создание бэкапа. Последняя команда: ExecSQL PROCEDURE sp_BackupDatabase('D:\Construc\DelphiXE2\ProCards\DBBackup\', null)
+2015-01-12 16:58:04 Создание бэкапа. В процессе создание бэкапа произошла ошибка
+2015-01-13 13:50:57 ERR: 5056.973-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-13 13:51:25 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2015-01-13 13:51:25 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10060
+Connection timed out.
+2015-01-13 13:51:25 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2015-01-13 13:51:25 Ошибка: Отправка e-mail Имя пользователя: plcard
+2015-01-13 13:51:25 Ошибка: Отправка e-mail Пароль: 
+2015-01-13 13:51:25 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2015-01-13 13:51:25 Ошибка: Отправка e-mail От имени: Хуршед
+2015-01-13 13:51:25 Ошибка: создание бэкапа. Запуск хранимой процедуры бэкапирования
+2015-01-13 13:51:25 Ошибка: создание бэкапа. Текст ошибки: [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = 42000;   NativeError = 2115;  [iAnywhere Solutions][Advantage SQL Engine]Expected lexical element not found: Your statement must start with CREATE, DROP, SELECT, INSERT, UPDATE, ALTER, EXECUTE, DELETE, GRANT, REVOKE, BEGIN, COMMIT, ROLLBACK, SAVEPOINT, SET, DEBUG or a script statement. -- Location of error in the SQL statement is: 1
+2015-01-13 13:51:25 Ошибка: создание бэкапа. Последняя команда: ExecSQL PROCEDURE sp_BackupDatabase('D:\Construc\DelphiXE2\ProCards\DBBackup\', null)
+2015-01-13 13:51:25 Создание бэкапа. В процессе создание бэкапа произошла ошибка
+2015-01-13 14:26:02 ERR: 2602.203-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-13 15:46:39 ERR: 4639.599-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-13 15:46:42 ERR: 4642.940-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-13 15:47:48 ERR: 4748.590-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-15 10:32:03 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2015-01-15 10:32:03 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10060
+Connection timed out.
+2015-01-15 10:32:03 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2015-01-15 10:32:03 Ошибка: Отправка e-mail Имя пользователя: plcard
+2015-01-15 10:32:03 Ошибка: Отправка e-mail Пароль: 
+2015-01-15 10:32:03 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2015-01-15 10:32:03 Ошибка: Отправка e-mail От имени: Хуршед
+2015-01-15 10:32:03 Ошибка: создание бэкапа. Запуск хранимой процедуры бэкапирования
+2015-01-15 10:32:03 Ошибка: создание бэкапа. Текст ошибки: [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = 42000;   NativeError = 2115;  [iAnywhere Solutions][Advantage SQL Engine]Expected lexical element not found: Your statement must start with CREATE, DROP, SELECT, INSERT, UPDATE, ALTER, EXECUTE, DELETE, GRANT, REVOKE, BEGIN, COMMIT, ROLLBACK, SAVEPOINT, SET, DEBUG or a script statement. -- Location of error in the SQL statement is: 1
+2015-01-15 10:32:03 Ошибка: создание бэкапа. Последняя команда: ExecSQL PROCEDURE sp_BackupDatabase('D:\Construc\DelphiXE2\ProCards\DBBackup\', null)
+2015-01-15 10:32:03 Создание бэкапа. В процессе создание бэкапа произошла ошибка
+2015-01-15 16:34:57 ERR: 3457.651-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-15 18:26:55 ERR: 2655.111-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-15 22:50:15 ERR: 5015.306-00 Формирование реестра. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = 42000;   NativeError = 2117;  [iAnywhere Solutions][Advantage SQL Engine]Unexpected token: Unrecognized column option: Integer -- Location of error in the SQL statement is: 56
+2015-01-15 22:50:15 ERR: 5015.306-01 SQL: Create Table #TMP20150115225015(Branch IntegerF_425552 Integer,F_777777 Integer)
+2015-01-15 22:51:40 ERR: 5140.596-00 Формирование реестра. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = S0000;   NativeError = 2121;  [iAnywhere Solutions][Advantage SQL Engine]Column not found: F_518399 -- Location of error in the SQL statement is: 31
+2015-01-15 22:51:40 ERR: 5140.596-01 SQL: Update #TMP20150115225140 Set F_518399=1 Where Branch = 1477
+2015-01-15 23:09:44 ERR: 0944.959-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-15 23:10:02 INF: 1002.494-00 SQL:
+2015-01-15 23:10:02 INF: 1002.494-00 Update #TMP20150115231002 Set F_425552=10 Where Branch = 1403
+2015-01-15 23:10:02 INF: 1002.496-00 SQL:
+2015-01-15 23:10:02 INF: 1002.496-00 Update #TMP20150115231002 Set F_777777=4 Where Branch = 1403
+2015-01-15 23:10:02 INF: 1002.498-00 SQL:
+2015-01-15 23:10:02 INF: 1002.498-00 Update #TMP20150115231002 Set F_425552=21 Where Branch = 1477
+2015-01-15 23:10:02 INF: 1002.500-00 SQL:
+2015-01-15 23:10:02 INF: 1002.500-00 Update #TMP20150115231002 Set F_518399=1 Where Branch = 1477
+2015-01-15 23:10:02 INF: 1002.502-00 SQL:
+2015-01-15 23:10:02 INF: 1002.502-00 Update #TMP20150115231002 Set F_777777=4 Where Branch = 1477
+2015-01-15 23:10:02 INF: 1002.504-00 SQL:
+2015-01-15 23:10:02 INF: 1002.504-00 Update #TMP20150115231002 Set F_425552=2 Where Branch = 5409
+2015-01-15 23:10:02 INF: 1002.505-00 SQL:
+2015-01-15 23:10:02 INF: 1002.505-00 Update #TMP20150115231002 Set F_425552=2 Where Branch = 5410
+2015-01-15 23:10:02 INF: 1002.507-00 SQL:
+2015-01-15 23:10:02 INF: 1002.507-00 Update #TMP20150115231002 Set F_777777=1 Where Branch = 5410
+2015-01-15 23:10:02 INF: 1002.508-00 SQL:
+2015-01-15 23:10:02 INF: 1002.508-00 Update #TMP20150115231002 Set F_425552=1 Where Branch = 5423
+2015-01-15 23:10:02 INF: 1002.510-00 SQL:
+2015-01-15 23:10:02 INF: 1002.510-00 Update #TMP20150115231002 Set F_777777=90 Where Branch = 5423
+2015-01-15 23:12:14 ERR: 1214.753-00 Формирование реестра. Cannot perform this operation on a closed dataset
+2015-01-15 23:12:14 ERR: 1214.753-01 SQL: Create Table #TMP20150115231214(Branch Integer, F_425552 Integer,F_777777 Integer,F_518399 Integer)
+2015-01-15 23:13:08 ERR: 1308.650-00 Формирование реестра. Field 'Branch' not found
+2015-01-15 23:13:08 ERR: 1308.650-01 SQL: Create Table #TMP20150115231308(Branch Integer, F_425552 Integer,F_777777 Integer,F_518399 Integer)
+2015-01-15 23:18:08 ERR: 1808.369-00 Формирование реестра. Field 'Branch' not found
+2015-01-15 23:18:08 ERR: 1808.369-01 SQL: Create Table #TMP20150115231808(Branch Integer, F_425552 Integer,F_777777 Integer,F_518399 Integer)
+2015-01-15 23:22:35 ERR: 2235.835-00 Формирование реестра. Cannot perform this operation on a closed dataset
+2015-01-15 23:22:35 ERR: 2235.835-01 SQL: Insert into #TMP20150115232235(Branch) Values (5423)
+2015-01-15 23:23:19 INF: 2319.674-00 SQL:
+2015-01-15 23:23:19 INF: 2319.674-00 Update #TMP20150115232319 Set F_425552=10 Where Branch = 1403
+2015-01-15 23:23:19 INF: 2319.676-00 SQL:
+2015-01-15 23:23:19 INF: 2319.676-00 Update #TMP20150115232319 Set F_777777=4 Where Branch = 1403
+2015-01-15 23:23:19 INF: 2319.677-00 SQL:
+2015-01-15 23:23:19 INF: 2319.677-00 Update #TMP20150115232319 Set F_425552=21 Where Branch = 1477
+2015-01-15 23:23:19 INF: 2319.679-00 SQL:
+2015-01-15 23:23:19 INF: 2319.679-00 Update #TMP20150115232319 Set F_518399=1 Where Branch = 1477
+2015-01-15 23:23:19 INF: 2319.680-00 SQL:
+2015-01-15 23:23:19 INF: 2319.680-00 Update #TMP20150115232319 Set F_777777=4 Where Branch = 1477
+2015-01-15 23:23:19 INF: 2319.682-00 SQL:
+2015-01-15 23:23:19 INF: 2319.682-00 Update #TMP20150115232319 Set F_425552=2 Where Branch = 5409
+2015-01-15 23:23:19 INF: 2319.683-00 SQL:
+2015-01-15 23:23:19 INF: 2319.683-00 Update #TMP20150115232319 Set F_425552=2 Where Branch = 5410
+2015-01-15 23:23:19 INF: 2319.685-00 SQL:
+2015-01-15 23:23:19 INF: 2319.685-00 Update #TMP20150115232319 Set F_777777=1 Where Branch = 5410
+2015-01-15 23:23:19 INF: 2319.686-00 SQL:
+2015-01-15 23:23:19 INF: 2319.686-00 Update #TMP20150115232319 Set F_425552=1 Where Branch = 5423
+2015-01-15 23:23:19 INF: 2319.688-00 SQL:
+2015-01-15 23:23:19 INF: 2319.688-00 Update #TMP20150115232319 Set F_777777=90 Where Branch = 5423
+2015-01-15 23:29:06 INF: 2906.149-00 SQL:
+2015-01-15 23:29:06 INF: 2906.149-00 Update #TMP20150115232906 Set F_425552=10 Where Branch = 1403
+2015-01-15 23:29:06 INF: 2906.151-00 SQL:
+2015-01-15 23:29:06 INF: 2906.151-00 Update #TMP20150115232906 Set F_777777=4 Where Branch = 1403
+2015-01-15 23:29:06 INF: 2906.153-00 SQL:
+2015-01-15 23:29:06 INF: 2906.153-00 Update #TMP20150115232906 Set F_425552=21 Where Branch = 1477
+2015-01-15 23:29:06 INF: 2906.154-00 SQL:
+2015-01-15 23:29:06 INF: 2906.154-00 Update #TMP20150115232906 Set F_518399=1 Where Branch = 1477
+2015-01-15 23:29:06 INF: 2906.156-00 SQL:
+2015-01-15 23:29:06 INF: 2906.156-00 Update #TMP20150115232906 Set F_777777=4 Where Branch = 1477
+2015-01-15 23:29:06 INF: 2906.157-00 SQL:
+2015-01-15 23:29:06 INF: 2906.157-00 Update #TMP20150115232906 Set F_425552=2 Where Branch = 5409
+2015-01-15 23:29:06 INF: 2906.159-00 SQL:
+2015-01-15 23:29:06 INF: 2906.159-00 Update #TMP20150115232906 Set F_425552=2 Where Branch = 5410
+2015-01-15 23:29:06 INF: 2906.160-00 SQL:
+2015-01-15 23:29:06 INF: 2906.160-00 Update #TMP20150115232906 Set F_777777=1 Where Branch = 5410
+2015-01-15 23:29:06 INF: 2906.162-00 SQL:
+2015-01-15 23:29:06 INF: 2906.162-00 Update #TMP20150115232906 Set F_425552=1 Where Branch = 5423
+2015-01-15 23:29:06 INF: 2906.163-00 SQL:
+2015-01-15 23:29:06 INF: 2906.163-00 Update #TMP20150115232906 Set F_777777=90 Where Branch = 5423
+2015-01-16 15:53:13 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2015-01-16 15:53:13 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10060
+Connection timed out.
+2015-01-16 15:53:13 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2015-01-16 15:53:13 Ошибка: Отправка e-mail Имя пользователя: plcard
+2015-01-16 15:53:13 Ошибка: Отправка e-mail Пароль: 
+2015-01-16 15:53:13 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2015-01-16 15:53:13 Ошибка: Отправка e-mail От имени: Хуршед
+2015-01-16 15:53:13 Ошибка: создание бэкапа. Запуск хранимой процедуры бэкапирования
+2015-01-16 15:53:13 Ошибка: создание бэкапа. Текст ошибки: [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = 42000;   NativeError = 2115;  [iAnywhere Solutions][Advantage SQL Engine]Expected lexical element not found: Your statement must start with CREATE, DROP, SELECT, INSERT, UPDATE, ALTER, EXECUTE, DELETE, GRANT, REVOKE, BEGIN, COMMIT, ROLLBACK, SAVEPOINT, SET, DEBUG or a script statement. -- Location of error in the SQL statement is: 1
+2015-01-16 15:53:13 Ошибка: создание бэкапа. Последняя команда: ExecSQL PROCEDURE sp_BackupDatabase('D:\Construc\DelphiXE2\ProCards\DBBackup\', null)
+2015-01-16 15:53:13 Создание бэкапа. В процессе создание бэкапа произошла ошибка
+2015-01-21 13:57:55 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2015-01-21 13:57:55 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10060
+Connection timed out.
+2015-01-21 13:57:55 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2015-01-21 13:57:55 Ошибка: Отправка e-mail Имя пользователя: plcard
+2015-01-21 13:57:55 Ошибка: Отправка e-mail Пароль: 
+2015-01-21 13:57:55 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2015-01-21 13:57:55 Ошибка: Отправка e-mail От имени: Хуршед
+2015-01-21 13:57:55 Ошибка: создание бэкапа. Запуск хранимой процедуры бэкапирования
+2015-01-21 13:57:55 Ошибка: создание бэкапа. Текст ошибки: [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = 42000;   NativeError = 2115;  [iAnywhere Solutions][Advantage SQL Engine]Expected lexical element not found: Your statement must start with CREATE, DROP, SELECT, INSERT, UPDATE, ALTER, EXECUTE, DELETE, GRANT, REVOKE, BEGIN, COMMIT, ROLLBACK, SAVEPOINT, SET, DEBUG or a script statement. -- Location of error in the SQL statement is: 1
+2015-01-21 13:57:55 Ошибка: создание бэкапа. Последняя команда: ExecSQL PROCEDURE sp_BackupDatabase('D:\Construc\DelphiXE2\ProCards\DBBackup\', null)
+2015-01-21 13:57:55 Создание бэкапа. В процессе создание бэкапа произошла ошибка
+2015-01-21 15:04:54 ERR: 0454.434-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-21 15:35:40 ERR: 3540.366-00 Формирование реестра. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = S0000;   NativeError = 2121;  [iAnywhere Solutions][Advantage SQL Engine]Column not found: F_777702 -- Location of error in the SQL statement is: 31
+2015-01-21 15:35:40 ERR: 3540.366-01 SQL: Update #TMP20150121153540 Set F_777702=4 Where Branch = 5849
+2015-01-22 12:49:46 Ошибка: Отправка e-mail Отправка e-mail для получения ПИН-конвертов и кард
+2015-01-22 12:49:46 Ошибка: Отправка e-mail Текст ошибки: Socket Error # 10060
+Connection timed out.
+2015-01-22 12:49:46 Ошибка: Отправка e-mail Хост: 189.141.1.16 Порт: 25
+2015-01-22 12:49:46 Ошибка: Отправка e-mail Имя пользователя: plcard
+2015-01-22 12:49:46 Ошибка: Отправка e-mail Пароль: 
+2015-01-22 12:49:46 Ошибка: Отправка e-mail Из адреса: khulugov@agroinvestbank.tj
+2015-01-22 12:49:46 Ошибка: Отправка e-mail От имени: Хуршед
+2015-01-22 12:49:46 Ошибка: создание бэкапа. Запуск хранимой процедуры бэкапирования
+2015-01-22 12:49:46 Ошибка: создание бэкапа. Текст ошибки: [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = 42000;   NativeError = 2115;  [iAnywhere Solutions][Advantage SQL Engine]Expected lexical element not found: Your statement must start with CREATE, DROP, SELECT, INSERT, UPDATE, ALTER, EXECUTE, DELETE, GRANT, REVOKE, BEGIN, COMMIT, ROLLBACK, SAVEPOINT, SET, DEBUG or a script statement. -- Location of error in the SQL statement is: 1
+2015-01-22 12:49:46 Ошибка: создание бэкапа. Последняя команда: ExecSQL PROCEDURE sp_BackupDatabase('D:\Construc\DelphiXE2\ProCards\DBBackup\', null)
+2015-01-22 12:49:46 Создание бэкапа. В процессе создание бэкапа произошла ошибка
+2015-01-22 15:41:27 ERR: 4126.976-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\1403_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 15:41:27 ERR: 4126.976-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (470,0069979,'МИРЗОАХМЕДОВ МЕЛИКУЗИ М','MELIKUZI/MIRZOAKHMEDOV','А0329349','777777XXXXXX13283','777777','07/11','07/14','МЕЛИКУЗИ МИРЗОАХМЕДОВ','521',Null,'TestFile.txt','1403_777777_TestFile_1.txt')
+2015-01-22 15:41:39 ERR: 4139.064-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\5423_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 15:41:39 ERR: 4139.064-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (471,0084574,'ОХУНЧОНОВА МАВЛУДА МУКИМЧОНОВА','MAVLUDA/OKHUNCHONOVA','А1661871','777777XXXXXX11592','777777','07/11','07/14','МАВЛУДА ОХУНЧОНОВА','521',Null,'TestFile.txt','5423_777777_TestFile_1.txt')
+2015-01-22 15:41:39 ERR: 4139.695-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\1477_518399_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 15:41:39 ERR: 4139.695-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (472,0084806,'КУРБАНШО САФАР АЛИШЕРОВИЧ','KURBANSHO/SAFAR','АА0210601','518399XXXXXX96265','518399','07/11','07/13','SAFAR KURBANSHO','101',Null,'TestFile.txt','1477_518399_TestFile_1.txt')
+2015-01-22 15:41:40 ERR: 4140.231-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\5410_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 15:41:40 ERR: 4140.231-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (473,0084813,'БЕРДИМУРОДОВА РОХАТЖОН НЕГМАТДЖОНОВНА','BERDIMURODOVA/ROKHATZHON','А5412216','777777XXXXXX13234','777777','07/11','07/14','РОХАТЖОН БЕРДИМУРОДОВА','521',Null,'TestFile.txt','5410_777777_TestFile_1.txt')
+2015-01-22 15:41:40 INF: 4140.474-00 Невозможно получение данных по филиалу
+2015-01-22 15:41:40 INF: 4140.474-00 Филиал: 5409
+2015-01-22 15:43:41 ERR: 4341.457-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\1403_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 15:43:41 ERR: 4341.457-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (475,0069979,'МИРЗОАХМЕДОВ МЕЛИКУЗИ М','MELIKUZI/MIRZOAKHMEDOV','А0329349','777777XXXXXX13283','777777','07/11','07/14','МЕЛИКУЗИ МИРЗОАХМЕДОВ','521',Null,'TestFile.txt','1403_777777_TestFile_1.txt')
+2015-01-22 15:58:36 ERR: 5836.669-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\5423_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 15:58:36 ERR: 5836.669-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (476,0084574,'ОХУНЧОНОВА МАВЛУДА МУКИМЧОНОВА','MAVLUDA/OKHUNCHONOVA','А1661871','777777XXXXXX11592','777777','07/11','07/14','МАВЛУДА ОХУНЧОНОВА','521',Null,'TestFile.txt','5423_777777_TestFile_1.txt')
+2015-01-22 15:58:37 ERR: 5837.217-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\1477_518399_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 15:58:37 ERR: 5837.217-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (477,0084806,'КУРБАНШО САФАР АЛИШЕРОВИЧ','KURBANSHO/SAFAR','АА0210601','518399XXXXXX96265','518399','07/11','07/13','SAFAR KURBANSHO','101',Null,'TestFile.txt','1477_518399_TestFile_1.txt')
+2015-01-22 15:58:37 ERR: 5837.713-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\5410_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 15:58:37 ERR: 5837.713-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (478,0084813,'БЕРДИМУРОДОВА РОХАТЖОН НЕГМАТДЖОНОВНА','BERDIMURODOVA/ROKHATZHON','А5412216','777777XXXXXX13234','777777','07/11','07/14','РОХАТЖОН БЕРДИМУРОДОВА','521',Null,'TestFile.txt','5410_777777_TestFile_1.txt')
+2015-01-22 15:58:38 INF: 5838.196-00 Невозможно получение данных по филиалу
+2015-01-22 15:58:38 INF: 5838.196-00 Филиал: 5409
+2015-01-22 16:01:26 ERR: 0126.431-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-22 16:01:36 ERR: 0136.798-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\1403_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 16:01:36 ERR: 0136.798-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (480,0069979,'МИРЗОАХМЕДОВ МЕЛИКУЗИ М','MELIKUZI/MIRZOAKHMEDOV','А0329349','777777XXXXXX13283','777777','07/11','07/14','МЕЛИКУЗИ МИРЗОАХМЕДОВ','521',Null,'TestFile.txt','1403_777777_TestFile_1.txt')
+2015-01-22 16:01:44 ERR: 0144.930-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\5423_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 16:01:44 ERR: 0144.930-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (481,0084574,'ОХУНЧОНОВА МАВЛУДА МУКИМЧОНОВА','MAVLUDA/OKHUNCHONOVA','А1661871','777777XXXXXX11592','777777','07/11','07/14','МАВЛУДА ОХУНЧОНОВА','521',Null,'TestFile.txt','5423_777777_TestFile_1.txt')
+2015-01-22 16:01:45 ERR: 0145.623-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\1477_518399_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 16:01:45 ERR: 0145.623-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (482,0084806,'КУРБАНШО САФАР АЛИШЕРОВИЧ','KURBANSHO/SAFAR','АА0210601','518399XXXXXX96265','518399','07/11','07/13','SAFAR KURBANSHO','101',Null,'TestFile.txt','1477_518399_TestFile_1.txt')
+2015-01-22 16:01:46 ERR: 0146.136-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\5410_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 16:01:46 ERR: 0146.136-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (483,0084813,'БЕРДИМУРОДОВА РОХАТЖОН НЕГМАТДЖОНОВНА','BERDIMURODOVA/ROKHATZHON','А5412216','777777XXXXXX13234','777777','07/11','07/14','РОХАТЖОН БЕРДИМУРОДОВА','521',Null,'TestFile.txt','5410_777777_TestFile_1.txt')
+2015-01-22 16:01:46 INF: 0146.625-00 Невозможно получение данных по филиалу
+2015-01-22 16:01:46 INF: 0146.625-00 Филиал: 5409
+2015-01-22 16:09:12 ERR: 0912.639-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-22 16:09:29 ERR: 0929.854-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\1403_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 16:09:29 ERR: 0929.854-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (485,0069979,'МИРЗОАХМЕДОВ МЕЛИКУЗИ М','MELIKUZI/MIRZOAKHMEDOV','А0329349','777777XXXXXX13283','777777','07/11','07/14','МЕЛИКУЗИ МИРЗОАХМЕДОВ','521',Null,'TestFile.txt','1403_777777_TestFile_1.txt')
+2015-01-22 16:15:08 ERR: 1508.492-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\5423_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 16:15:08 ERR: 1508.492-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (486,0084574,'ОХУНЧОНОВА МАВЛУДА МУКИМЧОНОВА','MAVLUDA/OKHUNCHONOVA','А1661871','777777XXXXXX11592','777777','07/11','07/14','МАВЛУДА ОХУНЧОНОВА','521',Null,'TestFile.txt','5423_777777_TestFile_1.txt')
+2015-01-22 16:15:08 ERR: 1508.994-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\1477_518399_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 16:15:08 ERR: 1508.994-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (487,0084806,'КУРБАНШО САФАР АЛИШЕРОВИЧ','KURBANSHO/SAFAR','АА0210601','518399XXXXXX96265','518399','07/11','07/13','SAFAR KURBANSHO','101',Null,'TestFile.txt','1477_518399_TestFile_1.txt')
+2015-01-22 16:15:09 ERR: 1509.498-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\5410_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 16:15:09 ERR: 1509.498-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (488,0084813,'БЕРДИМУРОДОВА РОХАТЖОН НЕГМАТДЖОНОВНА','BERDIMURODOVA/ROKHATZHON','А5412216','777777XXXXXX13234','777777','07/11','07/14','РОХАТЖОН БЕРДИМУРОДОВА','521',Null,'TestFile.txt','5410_777777_TestFile_1.txt')
+2015-01-22 16:15:25 INF: 1525.596-00 Невозможно получение данных по филиалу
+2015-01-22 16:15:25 INF: 1525.596-00 Филиал: 5409
+2015-01-22 16:15:25 ERR: 1525.612-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. The specified file already exists
+2015-01-22 16:15:25 ERR: 1525.612-01 SQL: Update S_IssDetails Set CardCost = (Select Cost from R_CardProducts Where Code = S_IssDetails.CardProduct) Where RPackID = 489
+2015-01-22 16:17:52 ERR: 1752.955-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-22 16:18:01 ERR: 1801.857-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\1403_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 16:18:01 ERR: 1801.857-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (490,0069979,'МИРЗОАХМЕДОВ МЕЛИКУЗИ М','MELIKUZI/MIRZOAKHMEDOV','А0329349','777777XXXXXX13283','777777','07/11','07/14','МЕЛИКУЗИ МИРЗОАХМЕДОВ','521',Null,'TestFile.txt','1403_777777_TestFile_1.txt')
+2015-01-22 16:18:04 ERR: 1804.884-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\5423_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 16:18:04 ERR: 1804.884-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (491,0084574,'ОХУНЧОНОВА МАВЛУДА МУКИМЧОНОВА','MAVLUDA/OKHUNCHONOVA','А1661871','777777XXXXXX11592','777777','07/11','07/14','МАВЛУДА ОХУНЧОНОВА','521',Null,'TestFile.txt','5423_777777_TestFile_1.txt')
+2015-01-22 16:18:06 ERR: 1806.577-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\1477_518399_TestFile_1.txt". Системе не удается найти указанный путь
+2015-01-22 16:18:06 ERR: 1806.577-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (492,0084806,'КУРБАНШО САФАР АЛИШЕРОВИЧ','KURBANSHO/SAFAR','АА0210601','518399XXXXXX96265','518399','07/11','07/13','SAFAR KURBANSHO','101',Null,'TestFile.txt','1477_518399_TestFile_1.txt')
+2015-01-23 08:10:46 ERR: 1046.400-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-23 08:11:13 INF: 1113.998-00 Отправка e-mail
+2015-01-23 08:11:14 INF: 1113.998-00 Socket Error # 10051
+Network is unreachable.
+2015-01-23 08:11:14 INF: 1113.998-10 Отправка e-mail. Хост: 189.141.1.16
+2015-01-23 08:11:14 INF: 1113.998-20 Порт: 25
+2015-01-23 08:11:14 INF: 1113.998-30 Имя пользователя: plcard
+2015-01-23 08:11:14 INF: 1113.998-40 Пароль: 
+2015-01-23 08:11:14 INF: 1113.998-50 Из адреса: khulugov@agroinvestbank.tj
+2015-01-23 08:11:14 INF: 1113.998-60 От имени: Хуршед
+2015-01-23 08:11:14 ERR: 1114.042-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.046-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.ai. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.049-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.am. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.162-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.166-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.182-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.185-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.312-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Setups.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.319-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Users.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.324-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.328-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.377-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 ERR: 1114.381-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-01-23 08:11:14 INF: 1114.565-00 Создана архивная копия БД: D:\Construc\DelphiXE2\ProCards\DBBackup\DBA20150123081114.zip
+2015-01-23 08:11:14 INF: 1114.681-00 Упаковка таблицы
+2015-01-23 08:11:14 INF: 1114.681-00 R_CardProducts
+2015-01-23 08:11:14 INF: 1114.714-00 Упаковка таблицы
+2015-01-23 08:11:14 INF: 1114.714-00 S_IssHeads
+2015-01-23 08:11:14 INF: 1114.759-00 Упаковка таблицы
+2015-01-23 08:11:14 INF: 1114.759-00 S_IssDetails
+2015-01-23 08:11:14 INF: 1114.777-00 Упаковка таблицы
+2015-01-23 08:11:14 INF: 1114.777-00 R_Branches
+2015-01-23 08:11:14 ERR: 1114.781-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-01-23 08:11:14 ERR: 1114.781-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Users')
+2015-01-23 08:11:14 INF: 1114.798-00 Упаковка таблицы
+2015-01-23 08:11:14 INF: 1114.798-00 R_RecID
+2015-01-23 08:11:14 INF: 1114.838-00 Упаковка таблицы
+2015-01-23 08:11:14 INF: 1114.838-00 P_ImpDatas
+2015-01-23 08:11:14 INF: 1114.897-00 Упаковка таблицы
+2015-01-23 08:11:14 INF: 1114.897-00 R_Reports
+2015-01-23 08:11:14 INF: 1114.912-00 Упаковка таблицы
+2015-01-23 08:11:14 INF: 1114.912-00 R_Accesses
+2015-01-23 08:11:14 INF: 1114.937-00 Упаковка таблицы
+2015-01-23 08:11:14 INF: 1114.937-00 R_Setups
+2015-01-23 09:25:42 INF: 2542.066-00 Соединение с БД.
+2015-01-23 09:25:42 INF: 2542.066-00 Тип соеднинения: локальная
+2015-01-23 09:25:43 ERR: 2543.237-00 Открытие таблиц программы. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 5175;  [iAnywhere Solutions][Advantage SQL][ASA] Error 5175:  The index file was created with a different collation sequence than is currently being used. Table name: R_Branches
+2015-01-23 09:26:09 INF: 2609.619-00 Соединение с БД.
+2015-01-23 09:26:09 INF: 2609.619-00 Тип соеднинения: локальная
+2015-01-23 09:26:09 ERR: 2609.765-00 Открытие таблиц программы. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 5175;  [iAnywhere Solutions][Advantage SQL][ASA] Error 5175:  The index file was created with a different collation sequence than is currently being used. Table name: R_Branches
+2015-01-23 09:26:40 INF: 2640.517-00 Соединение с БД.
+2015-01-23 09:26:40 INF: 2640.517-00 Тип соеднинения: локальная
+2015-01-23 09:26:40 ERR: 2640.632-00 Открытие таблиц программы. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 5175;  [iAnywhere Solutions][Advantage SQL][ASA] Error 5175:  The index file was created with a different collation sequence than is currently being used. Table name: R_Branches
+2015-01-23 09:28:34 INF: 2834.025-00 Соединение с БД.
+2015-01-23 09:28:34 INF: 2834.025-00 Тип соеднинения: серверная
+2015-01-23 09:28:34 ERR: 2834.267-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-01-23 09:28:39 INF: 2839.141-00 Соединение с БД.
+2015-01-23 09:28:39 INF: 2839.141-00 Тип соеднинения: серверная
+2015-01-23 09:28:57 ERR: 2857.200-00 Установка статусей изд. пакета. Редактирование статусей изд. пакета. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = S0000;   NativeError = 2124;  [iAnywhere Solutions][Advantage SQL Engine]Invalid operand for operator: <assignment> Boolean value is not assignment compatible with non-Boolean value. -- Location of error in the SQL statement is: 23 (IsIssued)
+2015-01-23 09:28:57 ERR: 2857.200-01 SQL: Update S_IssHeads Set IsIssued=-1,IsGotPins=-1,IsGotCards=-1 Where RRowID = 486
+2015-01-23 09:36:17 INF: 3617.603-00 Соединение с БД.
+2015-01-23 09:36:17 INF: 3617.603-00 Тип соеднинения: серверная
+2015-02-05 15:23:14 INF: 2314.360-00 Соединение с БД.
+2015-02-05 15:23:14 INF: 2314.360-00 Тип соеднинения: серверная
+2015-02-05 15:23:38 INF: 2338.630-00 Отправка e-mail
+2015-02-05 15:23:38 INF: 2338.630-00 Socket Error # 10060
+Connection timed out.
+2015-02-05 15:23:38 INF: 2338.630-10 Отправка e-mail. Хост: 189.141.1.16
+2015-02-05 15:23:38 INF: 2338.630-20 Порт: 25
+2015-02-05 15:23:38 INF: 2338.630-30 Имя пользователя: plcard
+2015-02-05 15:23:38 INF: 2338.630-40 Пароль: 
+2015-02-05 15:23:38 INF: 2338.630-50 Из адреса: khulugov@agroinvestbank.tj
+2015-02-05 15:23:38 INF: 2338.630-60 От имени: Хуршед
+2015-02-05 15:23:39 INF: 2339.008-00 Создание серверного бэкапа
+2015-02-05 15:23:39 ERR: 2339.012-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.016-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.ai. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.019-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.am. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.072-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.075-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.097-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.100-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.150-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Setups.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.155-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Users.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.160-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.163-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.191-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 ERR: 2339.194-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-05 15:23:39 INF: 2339.346-00 Создана архивная копия БД: D:\Construc\DelphiXE2\ProCards\DBBackup\DBA20150205152339.zip
+2015-02-05 15:23:39 INF: 2339.404-00 Упаковка таблицы
+2015-02-05 15:23:39 INF: 2339.404-00 R_CardProducts
+2015-02-05 15:23:39 INF: 2339.438-00 Упаковка таблицы
+2015-02-05 15:23:39 INF: 2339.438-00 S_IssHeads
+2015-02-05 15:23:39 INF: 2339.465-00 Упаковка таблицы
+2015-02-05 15:23:39 INF: 2339.465-00 S_IssDetails
+2015-02-05 15:23:39 INF: 2339.482-00 Упаковка таблицы
+2015-02-05 15:23:39 INF: 2339.482-00 R_Branches
+2015-02-05 15:23:39 ERR: 2339.540-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-02-05 15:23:39 ERR: 2339.540-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Users')
+2015-02-05 15:23:39 INF: 2339.549-00 Упаковка таблицы
+2015-02-05 15:23:39 INF: 2339.549-00 R_RecID
+2015-02-05 15:23:39 INF: 2339.561-00 Упаковка таблицы
+2015-02-05 15:23:39 INF: 2339.561-00 P_ImpDatas
+2015-02-05 15:23:39 INF: 2339.622-00 Упаковка таблицы
+2015-02-05 15:23:39 INF: 2339.622-00 R_Reports
+2015-02-05 15:23:39 INF: 2339.633-00 Упаковка таблицы
+2015-02-05 15:23:39 INF: 2339.633-00 R_Accesses
+2015-02-05 15:23:39 INF: 2339.641-00 Упаковка таблицы
+2015-02-05 15:23:39 INF: 2339.641-00 R_Setups
+2015-02-05 15:23:39 INF: 2339.651-00 Соединение с БД.
+2015-02-05 15:23:39 INF: 2339.651-00 Тип соеднинения: серверная
+2015-02-05 16:47:56 INF: 4756.212-00 Соединение с БД.
+2015-02-05 16:47:56 INF: 4756.212-00 Тип соеднинения: серверная
+2015-02-05 18:25:24 INF: 2524.419-00 Соединение с БД.
+2015-02-05 18:25:24 INF: 2524.419-00 Тип соеднинения: серверная
+2015-02-05 18:25:24 ERR: 2524.999-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-02-05 18:25:30 INF: 2530.515-00 Соединение с БД.
+2015-02-05 18:25:30 INF: 2530.515-00 Тип соеднинения: серверная
+2015-02-05 18:26:01 ERR: 2601.111-00 Формирование реестра. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = 42000;   NativeError = 2115;  [iAnywhere Solutions][Advantage SQL Engine]Expected lexical element not found: <identifier> but found: , You are missing the new field type after your field name. -- Location of error in the SQL statement is: 59
+2015-02-05 18:26:01 ERR: 2601.111-01 SQL: Create Table #TMP20150205182601(Branch Integer, BranchName, NChar(50),F_425552 Integer,F_777777 Integer,F_518399 Integer)
+2015-02-05 18:27:19 INF: 2719.710-00 Соединение с БД.
+2015-02-05 18:27:19 INF: 2719.710-00 Тип соеднинения: серверная
+2015-02-05 18:27:43 ERR: 2743.391-00 Формирование реестра. Field 'BranchName' not found
+2015-02-05 18:27:43 ERR: 2743.391-01 SQL: Select Branch from V_IssDetails Where (PackDate between '2015-01-22' and '2015-01-22') Group by Branch
+2015-02-05 18:28:19 INF: 2819.897-00 Соединение с БД.
+2015-02-05 18:28:19 INF: 2819.897-00 Тип соеднинения: серверная
+2015-02-05 18:28:37 ERR: 2837.117-00 Формирование реестра. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 2196;  [iAnywhere Solutions][Advantage SQL Engine]Column not found in GROUP BY clause: BranchName in SELECT or HAVING clause.
+2015-02-05 18:28:37 ERR: 2837.117-01 SQL: Select Branch, BranchName from V_IssDetails Where (PackDate between '2015-01-22' and '2015-01-22') Group by Branch
+2015-02-06 10:58:26 INF: 5826.296-00 Соединение с БД.
+2015-02-06 10:58:26 INF: 5826.296-00 Тип соеднинения: серверная
+2015-02-06 10:58:52 INF: 5852.118-00 Отправка e-mail
+2015-02-06 10:58:52 INF: 5852.118-00 Socket Error # 10060
+Connection timed out.
+2015-02-06 10:58:52 INF: 5852.118-10 Отправка e-mail. Хост: 189.141.1.16
+2015-02-06 10:58:52 INF: 5852.118-20 Порт: 25
+2015-02-06 10:58:52 INF: 5852.118-30 Имя пользователя: plcard
+2015-02-06 10:58:52 INF: 5852.118-40 Пароль: 
+2015-02-06 10:58:52 INF: 5852.118-50 Из адреса: khulugov@agroinvestbank.tj
+2015-02-06 10:58:52 INF: 5852.118-60 От имени: Хуршед
+2015-02-06 10:58:52 INF: 5852.935-00 Создание серверного бэкапа
+2015-02-06 10:58:52 ERR: 5852.938-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:52 ERR: 5852.941-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.ai. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:52 ERR: 5852.943-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.am. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:53 ERR: 5853.011-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:53 ERR: 5853.014-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:53 ERR: 5853.036-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:53 ERR: 5853.040-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:53 ERR: 5853.100-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Setups.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:53 ERR: 5853.107-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Users.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:53 ERR: 5853.113-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:53 ERR: 5853.117-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:53 ERR: 5853.153-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:53 ERR: 5853.157-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-06 10:58:53 INF: 5853.321-00 Создана архивная копия БД: D:\Construc\DelphiXE2\ProCards\DBBackup\DBA20150206105853.zip
+2015-02-06 10:58:53 INF: 5853.504-00 Упаковка таблицы
+2015-02-06 10:58:53 INF: 5853.504-00 R_CardProducts
+2015-02-06 10:58:53 INF: 5853.532-00 Упаковка таблицы
+2015-02-06 10:58:53 INF: 5853.532-00 S_IssHeads
+2015-02-06 10:58:53 INF: 5853.622-00 Упаковка таблицы
+2015-02-06 10:58:53 INF: 5853.622-00 S_IssDetails
+2015-02-06 10:58:53 INF: 5853.676-00 Упаковка таблицы
+2015-02-06 10:58:53 INF: 5853.676-00 R_Branches
+2015-02-06 10:58:53 ERR: 5853.767-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-02-06 10:58:53 ERR: 5853.767-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Users')
+2015-02-06 10:58:53 INF: 5853.853-00 Упаковка таблицы
+2015-02-06 10:58:53 INF: 5853.853-00 R_RecID
+2015-02-06 10:58:53 INF: 5853.866-00 Упаковка таблицы
+2015-02-06 10:58:53 INF: 5853.866-00 P_ImpDatas
+2015-02-06 10:58:53 INF: 5853.971-00 Упаковка таблицы
+2015-02-06 10:58:53 INF: 5853.971-00 R_Reports
+2015-02-06 10:58:54 INF: 5854.024-00 Упаковка таблицы
+2015-02-06 10:58:54 INF: 5854.024-00 R_Accesses
+2015-02-06 10:58:54 INF: 5854.054-00 Упаковка таблицы
+2015-02-06 10:58:54 INF: 5854.054-00 R_Setups
+2015-02-06 10:58:54 INF: 5854.105-00 Соединение с БД.
+2015-02-06 10:58:54 INF: 5854.105-00 Тип соеднинения: серверная
+2015-02-25 09:19:21 INF: 1921.170-00 Соединение с БД.
+2015-02-25 09:19:21 INF: 1921.170-00 Тип соеднинения: серверная
+2015-02-25 09:19:21 ERR: 1921.876-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-02-25 09:19:28 INF: 1928.031-00 Соединение с БД.
+2015-02-25 09:19:28 INF: 1928.031-00 Тип соеднинения: серверная
+2015-02-25 09:19:29 INF: 1929.308-00 Отправка e-mail
+2015-02-25 09:19:29 INF: 1929.308-00 Socket Error # 10051
+Network is unreachable.
+2015-02-25 09:19:29 INF: 1929.308-10 Отправка e-mail. Хост: 189.141.1.16
+2015-02-25 09:19:29 INF: 1929.308-20 Порт: 25
+2015-02-25 09:19:29 INF: 1929.308-30 Имя пользователя: plcard
+2015-02-25 09:19:29 INF: 1929.308-40 Пароль: 
+2015-02-25 09:19:29 INF: 1929.308-50 Из адреса: khulugov@agroinvestbank.tj
+2015-02-25 09:19:29 INF: 1929.308-60 От имени: Хуршед
+2015-02-25 09:19:29 INF: 1929.787-00 Создание серверного бэкапа
+2015-02-25 09:19:29 ERR: 1929.791-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:29 ERR: 1929.795-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.ai. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:29 ERR: 1929.798-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.am. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:29 ERR: 1929.856-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:29 ERR: 1929.859-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:29 ERR: 1929.905-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:29 ERR: 1929.909-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:29 ERR: 1929.978-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Setups.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:29 ERR: 1929.984-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Users.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:29 ERR: 1929.991-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:29 ERR: 1929.994-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:30 ERR: 1930.020-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:30 ERR: 1930.023-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-25 09:19:30 INF: 1930.148-00 Создана архивная копия БД: D:\Construc\DelphiXE2\ProCards\DBBackup\DBA20150225091930.zip
+2015-02-25 09:19:30 INF: 1930.166-00 Упаковка таблицы
+2015-02-25 09:19:30 INF: 1930.166-00 R_CardProducts
+2015-02-25 09:19:30 INF: 1930.173-00 Упаковка таблицы
+2015-02-25 09:19:30 INF: 1930.173-00 S_IssHeads
+2015-02-25 09:19:30 INF: 1930.198-00 Упаковка таблицы
+2015-02-25 09:19:30 INF: 1930.198-00 S_IssDetails
+2015-02-25 09:19:30 INF: 1930.210-00 Упаковка таблицы
+2015-02-25 09:19:30 INF: 1930.210-00 R_Branches
+2015-02-25 09:19:30 ERR: 1930.234-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-02-25 09:19:30 ERR: 1930.234-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Users')
+2015-02-25 09:19:30 INF: 1930.243-00 Упаковка таблицы
+2015-02-25 09:19:30 INF: 1930.243-00 R_RecID
+2015-02-25 09:19:30 INF: 1930.251-00 Упаковка таблицы
+2015-02-25 09:19:30 INF: 1930.251-00 P_ImpDatas
+2015-02-25 09:19:30 INF: 1930.319-00 Упаковка таблицы
+2015-02-25 09:19:30 INF: 1930.319-00 R_Reports
+2015-02-25 09:19:30 INF: 1930.333-00 Упаковка таблицы
+2015-02-25 09:19:30 INF: 1930.333-00 R_Accesses
+2015-02-25 09:19:30 INF: 1930.341-00 Упаковка таблицы
+2015-02-25 09:19:30 INF: 1930.341-00 R_Setups
+2015-02-25 09:19:30 INF: 1930.350-00 Соединение с БД.
+2015-02-25 09:19:30 INF: 1930.350-00 Тип соеднинения: серверная
+2015-02-25 13:25:53 INF: 2553.106-00 Соединение с БД.
+2015-02-25 13:25:53 INF: 2553.106-00 Тип соеднинения: серверная
+2015-02-25 13:26:26 ERR: 2626.125-00 Формирование акта по картам. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = 42000;   NativeError = 2115;  [iAnywhere Solutions][Advantage SQL Engine]Expected lexical element not found: FROM You are missing the keyword FROM after the column definitions in your SELECT statement. -- Location of error in the SQL statement is: 10
+2015-02-25 13:26:26 ERR: 2626.125-01 SQL: Select * V_Branches Order by Code
+2015-02-25 13:38:16 INF: 3816.856-00 Соединение с БД.
+2015-02-25 13:38:16 INF: 3816.856-00 Тип соеднинения: серверная
+2015-02-25 13:38:16 ERR: 3816.958-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-02-25 13:38:22 INF: 3822.664-00 Соединение с БД.
+2015-02-25 13:38:22 INF: 3822.664-00 Тип соеднинения: серверная
+2015-02-25 13:38:38 ERR: 3838.892-00 Формирование акта по картам. Method 'Copy' not supported by automation object
+2015-02-25 13:38:38 ERR: 3838.892-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 13:41:53 INF: 4153.530-00 Соединение с БД.
+2015-02-25 13:41:53 INF: 4153.530-00 Тип соеднинения: серверная
+2015-02-25 13:42:08 ERR: 4208.396-00 Формирование акта по картам. Method 'Selectio' not supported by automation object
+2015-02-25 13:42:08 ERR: 4208.396-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 13:42:35 INF: 4235.667-00 Соединение с БД.
+2015-02-25 13:42:35 INF: 4235.667-00 Тип соеднинения: серверная
+2015-02-25 13:42:48 ERR: 4248.815-00 Формирование акта по картам. Запрашиваемый номер семейства не существует
+2015-02-25 13:42:48 ERR: 4248.815-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 13:46:20 INF: 4620.744-00 Соединение с БД.
+2015-02-25 13:46:20 INF: 4620.744-00 Тип соеднинения: серверная
+2015-02-25 13:47:31 ERR: 4731.391-00 Формирование акта по картам. Запрашиваемый номер семейства не существует
+2015-02-25 13:47:31 ERR: 4731.391-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 13:49:11 INF: 4911.627-00 Соединение с БД.
+2015-02-25 13:49:11 INF: 4911.627-00 Тип соеднинения: серверная
+2015-02-25 13:49:25 ERR: 4925.649-00 Формирование акта по картам. Запрашиваемый номер семейства не существует
+2015-02-25 13:49:25 ERR: 4925.649-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 14:30:33 INF: 3033.767-00 Соединение с БД.
+2015-02-25 14:30:33 INF: 3033.767-00 Тип соеднинения: серверная
+2015-02-25 14:30:47 ERR: 3047.478-00 Формирование акта по картам. Method 'Insert' not supported by automation object
+2015-02-25 14:30:47 ERR: 3047.478-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 14:31:58 ERR: 3158.557-00 Формирование акта по картам. Method 'Insert' not supported by automation object
+2015-02-25 14:31:58 ERR: 3158.557-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 14:32:34 INF: 3234.565-00 Соединение с БД.
+2015-02-25 14:32:34 INF: 3234.565-00 Тип соеднинения: серверная
+2015-02-25 14:32:54 ERR: 3254.492-00 Формирование акта по картам. Запрашиваемый номер семейства не существует
+2015-02-25 14:32:54 ERR: 3254.492-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 15:07:20 INF: 0720.596-00 Соединение с БД.
+2015-02-25 15:07:20 INF: 0720.596-00 Тип соеднинения: серверная
+2015-02-25 15:07:20 ERR: 0720.662-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-02-25 15:07:25 INF: 0725.524-00 Соединение с БД.
+2015-02-25 15:07:25 INF: 0725.524-00 Тип соеднинения: серверная
+2015-02-25 15:07:40 ERR: 0740.692-00 Формирование акта по картам. Недопустимое число параметров
+2015-02-25 15:07:40 ERR: 0740.692-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 15:08:34 INF: 0834.722-00 Соединение с БД.
+2015-02-25 15:08:34 INF: 0834.722-00 Тип соеднинения: серверная
+2015-02-25 15:08:34 ERR: 0834.782-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-02-25 15:08:38 INF: 0838.808-00 Соединение с БД.
+2015-02-25 15:08:38 INF: 0838.808-00 Тип соеднинения: серверная
+2015-02-25 15:08:57 ERR: 0857.522-00 Формирование акта по картам. Запрашиваемый номер семейства не существует
+2015-02-25 15:08:57 ERR: 0857.522-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 15:13:59 INF: 1359.930-00 Соединение с БД.
+2015-02-25 15:13:59 INF: 1359.930-00 Тип соеднинения: серверная
+2015-02-25 15:14:13 ERR: 1413.293-00 Формирование акта по картам. Method 'Insert' not supported by automation object
+2015-02-25 15:14:13 ERR: 1413.293-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 15:15:25 INF: 1525.131-00 Соединение с БД.
+2015-02-25 15:15:25 INF: 1525.131-00 Тип соеднинения: серверная
+2015-02-25 15:15:25 ERR: 1525.193-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-02-25 15:15:29 INF: 1529.289-00 Соединение с БД.
+2015-02-25 15:15:29 INF: 1529.289-00 Тип соеднинения: серверная
+2015-02-25 15:23:00 INF: 2300.024-00 Соединение с БД.
+2015-02-25 15:23:00 INF: 2300.024-00 Тип соеднинения: серверная
+2015-02-25 15:23:00 ERR: 2300.089-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-02-25 15:23:08 INF: 2308.030-00 Соединение с БД.
+2015-02-25 15:23:08 INF: 2308.030-00 Тип соеднинения: серверная
+2015-02-25 15:26:48 INF: 2648.360-00 Соединение с БД.
+2015-02-25 15:26:48 INF: 2648.360-00 Тип соеднинения: серверная
+2015-02-25 15:33:18 INF: 3318.782-00 Соединение с БД.
+2015-02-25 15:33:18 INF: 3318.782-00 Тип соеднинения: серверная
+2015-02-25 15:33:35 ERR: 3335.002-00 Формирование акта по картам. Запрашиваемый номер семейства не существует
+2015-02-25 15:33:35 ERR: 3335.002-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 15:34:34 INF: 3434.974-00 Соединение с БД.
+2015-02-25 15:34:34 INF: 3434.974-00 Тип соеднинения: серверная
+2015-02-25 15:37:57 INF: 3757.159-00 Соединение с БД.
+2015-02-25 15:37:57 INF: 3757.159-00 Тип соеднинения: серверная
+2015-02-25 15:38:11 ERR: 3811.382-00 Формирование акта по картам. Запрашиваемый номер семейства не существует
+2015-02-25 15:38:11 ERR: 3811.382-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 5423)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 15:39:10 INF: 3910.593-00 Соединение с БД.
+2015-02-25 15:39:10 INF: 3910.593-00 Тип соеднинения: серверная
+2015-02-25 15:41:01 INF: 4101.555-00 Соединение с БД.
+2015-02-25 15:41:01 INF: 4101.555-00 Тип соеднинения: серверная
+2015-02-25 15:46:12 INF: 4612.758-00 Соединение с БД.
+2015-02-25 15:46:12 INF: 4612.758-00 Тип соеднинения: серверная
+2015-02-25 15:48:14 INF: 4814.142-00 Соединение с БД.
+2015-02-25 15:48:14 INF: 4814.142-00 Тип соеднинения: серверная
+2015-02-25 15:48:30 ERR: 4830.109-00 Формирование акта по картам. Отсутствует доступ к отдельным строкам, поскольку таблица имеет ячейки, объединенные по вертикали
+2015-02-25 15:48:30 ERR: 4830.109-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 16:08:21 ERR: 0821.125-00 Отчеты. Вставка новой записи. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = S0000;   NativeError = 2124;  [iAnywhere Solutions][Advantage SQL Engine]Invalid operand for operator: <assignment> Boolean value is not assignment compatible with non-Boolean value. -- Location of error in the SQL statement is: 49
+2015-02-25 16:08:21 ERR: 0821.125-01 SQL: Insert into R_Reports(Code,Name,IsSystem,IsHide,IsPeriod,Remark,SQLText) Values (503,'Итоги пар картам за период',0,0,-1,'Итоги пар картам за период','Select
+         S_IssHeads.Branch,
+         R_Branches.Name as BranchName,
+         R_CardProducts.Name,
+         S_IssDetails.CardCost,
+         Count(S_IssDetails.RRowID) as CardsCount,
+         Sum(S_IssDetails.CardCost) as CardsCost
+from S_IssDetails 
+Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code
+Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID
+Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code
+Where (PackDate Between ''2015-01-22'' and ''2015-01-22'')
+Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+')
+2015-02-25 16:08:26 ERR: 0826.920-00 Отчеты. Вставка новой записи. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = S0000;   NativeError = 2124;  [iAnywhere Solutions][Advantage SQL Engine]Invalid operand for operator: <assignment> Boolean value is not assignment compatible with non-Boolean value. -- Location of error in the SQL statement is: 33
+2015-02-25 16:08:26 ERR: 0826.920-01 SQL: Insert into R_Reports(Code,Name,IsSystem,IsHide,IsPeriod,Remark,SQLText) Values (503,'Итоги пар картам за период',-1,-1,-1,'Итоги пар картам за период','Select
+         S_IssHeads.Branch,
+         R_Branches.Name as BranchName,
+         R_CardProducts.Name,
+         S_IssDetails.CardCost,
+         Count(S_IssDetails.RRowID) as CardsCount,
+         Sum(S_IssDetails.CardCost) as CardsCost
+from S_IssDetails 
+Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code
+Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID
+Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code
+Where (PackDate Between ''2015-01-22'' and ''2015-01-22'')
+Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+')
+2015-02-25 16:10:13 INF: 1013.669-00 Соединение с БД.
+2015-02-25 16:10:13 INF: 1013.669-00 Тип соеднинения: серверная
+2015-02-25 16:10:13 ERR: 1013.716-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-02-25 16:10:17 INF: 1017.516-00 Соединение с БД.
+2015-02-25 16:10:17 INF: 1017.516-00 Тип соеднинения: серверная
+2015-02-25 16:18:19 INF: 1819.140-00 Соединение с БД.
+2015-02-25 16:18:19 INF: 1819.140-00 Тип соеднинения: серверная
+2015-02-25 16:18:32 ERR: 1832.685-00 Формирование акта по картам. Отсутствует доступ к отдельным строкам, поскольку таблица имеет ячейки, объединенные по вертикали
+2015-02-25 16:18:32 ERR: 1832.685-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-25 16:21:45 INF: 2145.193-00 Соединение с БД.
+2015-02-25 16:21:45 INF: 2145.193-00 Тип соеднинения: серверная
+2015-02-25 16:22:08 ERR: 2208.463-00 Формирование акта по картам. Отсутствует доступ к отдельным строкам, поскольку таблица имеет ячейки, объединенные по вертикали
+2015-02-25 16:22:08 ERR: 2208.463-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-26 13:36:10 INF: 3610.851-00 Соединение с БД.
+2015-02-26 13:36:10 INF: 3610.851-00 Тип соеднинения: серверная
+2015-02-26 13:36:11 ERR: 3611.071-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-02-26 13:36:14 INF: 3614.495-00 Соединение с БД.
+2015-02-26 13:36:14 INF: 3614.495-00 Тип соеднинения: серверная
+2015-02-26 13:36:14 INF: 3614.900-00 Отправка e-mail
+2015-02-26 13:36:14 INF: 3614.900-00 Socket Error # 10051
+Network is unreachable.
+2015-02-26 13:36:14 INF: 3614.900-10 Отправка e-mail. Хост: 189.141.1.16
+2015-02-26 13:36:14 INF: 3614.900-20 Порт: 25
+2015-02-26 13:36:14 INF: 3614.900-30 Имя пользователя: plcard
+2015-02-26 13:36:14 INF: 3614.900-40 Пароль: 
+2015-02-26 13:36:14 INF: 3614.900-50 Из адреса: khulugov@agroinvestbank.tj
+2015-02-26 13:36:14 INF: 3614.900-60 От имени: Хуршед
+2015-02-26 13:36:15 INF: 3615.566-00 Создание серверного бэкапа
+2015-02-26 13:36:15 ERR: 3615.571-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.574-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.ai. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.578-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.am. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.648-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.652-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.673-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.676-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.737-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Setups.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.743-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Users.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.749-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.753-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.789-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 ERR: 3615.793-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-02-26 13:36:15 INF: 3615.885-00 Создана архивная копия БД: D:\Construc\DelphiXE2\ProCards\DBBackup\DBA20150226133615.zip
+2015-02-26 13:36:16 ERR: 3616.093-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-02-26 13:36:16 ERR: 3616.093-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_CardProducts')
+2015-02-26 13:36:16 ERR: 3616.097-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-02-26 13:36:16 ERR: 3616.097-01 SQL: EXECUTE PROCEDURE sp_PackTable('S_IssHeads')
+2015-02-26 13:36:16 ERR: 3616.129-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-02-26 13:36:16 ERR: 3616.129-01 SQL: EXECUTE PROCEDURE sp_PackTable('S_IssDetails')
+2015-02-26 13:36:16 ERR: 3616.150-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-02-26 13:36:16 ERR: 3616.150-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Branches')
+2015-02-26 13:36:16 ERR: 3616.162-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-02-26 13:36:16 ERR: 3616.162-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Users')
+2015-02-26 13:36:16 INF: 3616.217-00 Упаковка таблицы
+2015-02-26 13:36:16 INF: 3616.217-00 R_RecID
+2015-02-26 13:36:16 INF: 3616.247-00 Упаковка таблицы
+2015-02-26 13:36:16 INF: 3616.247-00 P_ImpDatas
+2015-02-26 13:36:16 INF: 3616.260-00 Упаковка таблицы
+2015-02-26 13:36:16 INF: 3616.260-00 R_Reports
+2015-02-26 13:36:16 INF: 3616.294-00 Упаковка таблицы
+2015-02-26 13:36:16 INF: 3616.294-00 R_Accesses
+2015-02-26 13:36:16 INF: 3616.328-00 Упаковка таблицы
+2015-02-26 13:36:16 INF: 3616.328-00 R_Setups
+2015-02-26 13:36:16 INF: 3616.354-00 Соединение с БД.
+2015-02-26 13:36:16 INF: 3616.354-00 Тип соеднинения: серверная
+2015-02-26 13:37:22 ERR: 3722.522-00 Формирование акта по картам. Отсутствует доступ к отдельным строкам, поскольку таблица имеет ячейки, объединенные по вертикали
+2015-02-26 13:37:22 ERR: 3722.522-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-26 13:55:33 INF: 5533.997-00 Соединение с БД.
+2015-02-26 13:55:34 INF: 5533.997-00 Тип соеднинения: серверная
+2015-02-26 13:55:34 ERR: 5534.046-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-02-26 13:55:38 INF: 5538.092-00 Соединение с БД.
+2015-02-26 13:55:38 INF: 5538.092-00 Тип соеднинения: серверная
+2015-02-26 13:55:53 ERR: 5553.166-00 Формирование акта по картам. Отсутствует доступ к отдельным строкам, поскольку таблица имеет ячейки, объединенные по вертикали
+2015-02-26 13:55:53 ERR: 5553.166-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-26 14:18:40 INF: 1840.875-00 Соединение с БД.
+2015-02-26 14:18:40 INF: 1840.875-00 Тип соеднинения: серверная
+2015-02-26 14:18:56 ERR: 1856.897-00 Формирование акта по картам. Отсутствует доступ к отдельным строкам, поскольку таблица имеет ячейки, объединенные по вертикали
+2015-02-26 14:18:56 ERR: 1856.897-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2015-01-22' and '2015-01-22') and (Branch = 1403)Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName
+2015-02-26 14:23:15 INF: 2315.064-00 Соединение с БД.
+2015-02-26 14:23:15 INF: 2315.064-00 Тип соеднинения: серверная
+2015-02-26 14:27:43 INF: 2743.480-00 Соединение с БД.
+2015-02-26 14:27:43 INF: 2743.480-00 Тип соеднинения: серверная
+2015-02-26 14:37:59 INF: 3759.881-00 Соединение с БД.
+2015-02-26 14:37:59 INF: 3759.881-00 Тип соеднинения: серверная
+2015-02-26 14:37:59 ERR: 3759.970-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-02-26 14:38:03 INF: 3803.012-00 Соединение с БД.
+2015-02-26 14:38:03 INF: 3803.012-00 Тип соеднинения: серверная
+2015-02-26 15:30:57 INF: 3057.733-00 Соединение с БД.
+2015-02-26 15:30:57 INF: 3057.733-00 Тип соеднинения: серверная
+2015-03-03 11:09:15 INF: 0915.337-00 Соединение с БД.
+2015-03-03 11:09:15 INF: 0915.337-00 Тип соеднинения: серверная
+2015-03-03 11:09:17 INF: 0917.165-00 Отправка e-mail
+2015-03-03 11:09:17 INF: 0917.165-00 Socket Error # 10051
+Network is unreachable.
+2015-03-03 11:09:17 INF: 0917.165-10 Отправка e-mail. Хост: 189.141.1.16
+2015-03-03 11:09:17 INF: 0917.165-20 Порт: 25
+2015-03-03 11:09:17 INF: 0917.165-30 Имя пользователя: plcard
+2015-03-03 11:09:17 INF: 0917.165-40 Пароль: 
+2015-03-03 11:09:17 INF: 0917.165-50 Из адреса: khulugov@agroinvestbank.tj
+2015-03-03 11:09:17 INF: 0917.165-60 От имени: Хуршед
+2015-03-03 11:09:17 INF: 0917.831-00 Создание серверного бэкапа
+2015-03-03 11:09:17 ERR: 0917.833-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.834-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.ai. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.836-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.am. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.873-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.875-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.888-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.889-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.952-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Setups.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.956-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Users.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.959-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.960-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.982-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:17 ERR: 0917.984-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-03 11:09:18 INF: 0918.053-00 Создана архивная копия БД: D:\Construc\DelphiXE2\ProCards\DBBackup\DBA20150303110917.zip
+2015-03-03 11:09:18 INF: 0918.144-00 Упаковка таблицы
+2015-03-03 11:09:18 INF: 0918.144-00 R_CardProducts
+2015-03-03 11:09:18 INF: 0918.153-00 Упаковка таблицы
+2015-03-03 11:09:18 INF: 0918.153-00 S_IssHeads
+2015-03-03 11:09:18 INF: 0918.225-00 Упаковка таблицы
+2015-03-03 11:09:18 INF: 0918.225-00 S_IssDetails
+2015-03-03 11:09:18 INF: 0918.271-00 Упаковка таблицы
+2015-03-03 11:09:18 INF: 0918.271-00 R_Branches
+2015-03-03 11:09:18 ERR: 0918.321-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-03-03 11:09:18 ERR: 0918.321-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Users')
+2015-03-03 11:09:18 INF: 0918.415-00 Упаковка таблицы
+2015-03-03 11:09:18 INF: 0918.415-00 R_RecID
+2015-03-03 11:09:18 INF: 0918.429-00 Упаковка таблицы
+2015-03-03 11:09:18 INF: 0918.429-00 P_ImpDatas
+2015-03-03 11:09:18 INF: 0918.503-00 Упаковка таблицы
+2015-03-03 11:09:18 INF: 0918.503-00 R_Reports
+2015-03-03 11:09:18 INF: 0918.541-00 Упаковка таблицы
+2015-03-03 11:09:18 INF: 0918.541-00 R_Accesses
+2015-03-03 11:09:18 INF: 0918.546-00 Упаковка таблицы
+2015-03-03 11:09:18 INF: 0918.546-00 R_Setups
+2015-03-03 11:09:18 INF: 0918.552-00 Соединение с БД.
+2015-03-03 11:09:18 INF: 0918.552-00 Тип соеднинения: серверная
+2015-03-03 13:58:11 INF: 5811.006-00 Соединение с БД.
+2015-03-03 13:58:11 INF: 5811.006-00 Тип соеднинения: серверная
+2015-03-03 14:42:56 INF: 4256.771-00 Соединение с БД.
+2015-03-03 14:42:56 INF: 4256.771-00 Тип соеднинения: серверная
+2015-03-03 14:43:12 ERR: 4312.650-00 Формирование акта по картам. Запрашиваемый номер семейства не существует
+2015-03-03 14:43:12 ERR: 4312.650-01 SQL: Select R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Where (PackDate Between '2015-01-22' and '2015-01-22') Group by R_CardProducts.Name, S_IssDetails.CardCost
+2015-03-03 14:47:39 INF: 4739.814-00 Соединение с БД.
+2015-03-03 14:47:39 INF: 4739.814-00 Тип соеднинения: серверная
+2015-03-03 14:47:39 ERR: 4739.858-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-03-03 14:47:45 INF: 4745.916-00 Соединение с БД.
+2015-03-03 14:47:45 INF: 4745.916-00 Тип соеднинения: серверная
+2015-03-03 15:35:30 INF: 3530.712-00 Соединение с БД.
+2015-03-03 15:35:30 INF: 3530.712-00 Тип соеднинения: серверная
+2015-03-03 15:43:07 INF: 4307.198-00 Соединение с БД.
+2015-03-03 15:43:07 INF: 4307.198-00 Тип соеднинения: серверная
+2015-03-03 16:27:10 INF: 2710.116-00 Соединение с БД.
+2015-03-03 16:27:10 INF: 2710.116-00 Тип соеднинения: серверная
+2015-03-03 16:42:06 INF: 4206.745-00 Соединение с БД.
+2015-03-03 16:42:06 INF: 4206.745-00 Тип соеднинения: серверная
+2015-03-03 22:32:09 INF: 3208.894-00 Соединение с БД.
+2015-03-03 22:32:09 INF: 3208.894-00 Тип соеднинения: серверная
+2015-03-03 22:32:09 ERR: 3209.926-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-03-03 22:32:14 INF: 3214.113-00 Соединение с БД.
+2015-03-03 22:32:14 INF: 3214.113-00 Тип соеднинения: серверная
+2015-03-03 22:40:11 INF: 4011.042-00 Соединение с БД.
+2015-03-03 22:40:11 INF: 4011.042-00 Тип соеднинения: серверная
+2015-03-03 22:40:11 ERR: 4011.124-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-03-03 22:40:14 INF: 4014.437-00 Соединение с БД.
+2015-03-03 22:40:14 INF: 4014.437-00 Тип соеднинения: серверная
+2015-03-04 11:04:43 INF: 0442.888-00 Соединение с БД.
+2015-03-04 11:04:43 INF: 0442.888-00 Тип соеднинения: серверная
+2015-03-04 11:04:43 ERR: 0443.943-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-03-04 11:04:47 INF: 0447.430-00 Соединение с БД.
+2015-03-04 11:04:47 INF: 0447.430-00 Тип соеднинения: серверная
+2015-03-04 11:04:49 INF: 0449.330-00 Отправка e-mail
+2015-03-04 11:04:49 INF: 0449.330-00 Socket Error # 10051
+Network is unreachable.
+2015-03-04 11:04:49 INF: 0449.330-10 Отправка e-mail. Хост: 189.141.1.16
+2015-03-04 11:04:49 INF: 0449.330-20 Порт: 25
+2015-03-04 11:04:49 INF: 0449.330-30 Имя пользователя: plcard
+2015-03-04 11:04:49 INF: 0449.330-40 Пароль: 
+2015-03-04 11:04:49 INF: 0449.330-50 Из адреса: khulugov@agroinvestbank.tj
+2015-03-04 11:04:49 INF: 0449.330-60 От имени: Хуршед
+2015-03-04 11:04:50 INF: 0450.060-00 Создание серверного бэкапа
+2015-03-04 11:04:50 ERR: 0450.064-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.068-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.ai. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.071-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.am. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.133-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.136-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.158-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.162-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.211-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Setups.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.230-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Users.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.236-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.239-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.264-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 ERR: 0450.267-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-03-04 11:04:50 INF: 0450.443-00 Создана архивная копия БД: D:\Construc\DelphiXE2\ProCards\DBBackup\DBA20150304110450.zip
+2015-03-04 11:04:50 INF: 0450.634-00 Упаковка таблицы
+2015-03-04 11:04:50 INF: 0450.634-00 R_CardProducts
+2015-03-04 11:04:50 INF: 0450.649-00 Упаковка таблицы
+2015-03-04 11:04:50 INF: 0450.649-00 S_IssHeads
+2015-03-04 11:04:50 INF: 0450.757-00 Упаковка таблицы
+2015-03-04 11:04:50 INF: 0450.757-00 S_IssDetails
+2015-03-04 11:04:50 INF: 0450.783-00 Упаковка таблицы
+2015-03-04 11:04:50 INF: 0450.783-00 R_Branches
+2015-03-04 11:04:50 ERR: 0450.834-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-03-04 11:04:50 ERR: 0450.834-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Users')
+2015-03-04 11:04:50 INF: 0450.864-00 Упаковка таблицы
+2015-03-04 11:04:50 INF: 0450.864-00 R_RecID
+2015-03-04 11:04:50 INF: 0450.875-00 Упаковка таблицы
+2015-03-04 11:04:50 INF: 0450.875-00 P_ImpDatas
+2015-03-04 11:04:51 INF: 0451.023-00 Упаковка таблицы
+2015-03-04 11:04:51 INF: 0451.023-00 R_Reports
+2015-03-04 11:04:51 INF: 0451.073-00 Упаковка таблицы
+2015-03-04 11:04:51 INF: 0451.073-00 R_Accesses
+2015-03-04 11:04:51 INF: 0451.081-00 Упаковка таблицы
+2015-03-04 11:04:51 INF: 0451.081-00 R_Setups
+2015-03-04 11:04:51 INF: 0451.107-00 Соединение с БД.
+2015-03-04 11:04:51 INF: 0451.107-00 Тип соеднинения: серверная
+2015-03-04 11:11:25 ERR: 1125.729-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "C:\Lab\Temp\1403_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-03-04 11:11:25 ERR: 1125.729-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (493,0069979,'МИРЗОАХМЕДОВ МЕЛИКУЗИ М','MELIKUZI/MIRZOAKHMEDOV','А0329349','777777XXXXXX13283','777777','07/11','07/14','МЕЛИКУЗИ МИРЗОАХМЕДОВ','521',Null,'TestFile.txt','1403_777777_TestFile_1.txt')
+2015-03-04 11:16:20 ERR: 1620.264-00 Обработка коллекции. Загрузка файла: D:\Lab\Temp\Files\TestFile.txt. Cannot create file "D:\Lab\Temp\OUT\1403_777777_TestFile_1.txt". Системе не удается найти указанный путь
+2015-03-04 11:16:20 ERR: 1620.264-01 SQL: Insert into S_IssDetails(RPackID,ClientID,ClientName,ClientLatName,ClientPasspNo,CardNo,CardProduct,CardDateInput,CardDateExpire,CardNameOn,CardServCode,AccountNo,FNameOrig,FNameDiv) Values (494,0069979,'МИРЗОАХМЕДОВ МЕЛИКУЗИ М','MELIKUZI/MIRZOAKHMEDOV','А0329349','777777XXXXXX13283','777777','07/11','07/14','МЕЛИКУЗИ МИРЗОАХМЕДОВ','521',Null,'TestFile.txt','1403_777777_TestFile_1.txt')
+2015-03-04 11:16:51 INF: 1651.379-00 Невозможно получение данных по филиалу
+2015-03-04 11:16:51 INF: 1651.379-00 Филиал: 5409
+2015-04-06 10:50:48 INF: 5047.880-00 Соединение с БД.
+2015-04-06 10:50:48 INF: 5047.880-00 Тип соеднинения: серверная
+2015-04-06 10:50:50 ERR: 5050.007-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-04-06 10:50:58 INF: 5058.044-00 Соединение с БД.
+2015-04-06 10:50:58 INF: 5058.044-00 Тип соеднинения: серверная
+2015-04-06 10:51:02 INF: 5102.215-00 Отправка e-mail
+2015-04-06 10:51:02 INF: 5102.215-00 Socket Error # 10051
+Network is unreachable.
+2015-04-06 10:51:02 INF: 5102.215-10 Отправка e-mail. Хост: 189.141.1.16
+2015-04-06 10:51:02 INF: 5102.215-20 Порт: 25
+2015-04-06 10:51:02 INF: 5102.215-30 Имя пользователя: plcard
+2015-04-06 10:51:02 INF: 5102.215-40 Пароль: 
+2015-04-06 10:51:02 INF: 5102.215-50 Из адреса: khulugov@agroinvestbank.tj
+2015-04-06 10:51:02 INF: 5102.215-60 От имени: Хуршед
+2015-04-06 10:51:02 INF: 5102.988-00 Создание серверного бэкапа
+2015-04-06 10:51:02 ERR: 5102.990-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.add. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:02 ERR: 5102.992-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.ai. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:02 ERR: 5102.994-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\ProCards.am. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:03 ERR: 5103.040-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:03 ERR: 5103.041-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Branches.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:03 ERR: 5103.054-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:03 ERR: 5103.056-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_CardProducts.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:03 ERR: 5103.118-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Setups.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:03 ERR: 5103.122-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\R_Users.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:03 ERR: 5103.126-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:03 ERR: 5103.128-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssDetails.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:03 ERR: 5103.148-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:03 ERR: 5103.150-00 Копия БД. Копирование файла:D:\Construc\DelphiXE2\ProCards\DBase\S_IssHeads.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-04-06 10:51:03 INF: 5103.233-00 Создана архивная копия БД: D:\Construc\DelphiXE2\ProCards\DBBackup\DBA20150406105103.zip
+2015-04-06 10:51:03 INF: 5103.422-00 Упаковка таблицы
+2015-04-06 10:51:03 INF: 5103.422-00 R_CardProducts
+2015-04-06 10:51:03 INF: 5103.439-00 Упаковка таблицы
+2015-04-06 10:51:03 INF: 5103.439-00 S_IssHeads
+2015-04-06 10:51:03 INF: 5103.479-00 Упаковка таблицы
+2015-04-06 10:51:03 INF: 5103.479-00 S_IssDetails
+2015-04-06 10:51:03 INF: 5103.514-00 Упаковка таблицы
+2015-04-06 10:51:03 INF: 5103.514-00 R_Branches
+2015-04-06 10:51:03 ERR: 5103.597-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-04-06 10:51:03 ERR: 5103.597-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Users')
+2015-04-06 10:51:03 INF: 5103.656-00 Упаковка таблицы
+2015-04-06 10:51:03 INF: 5103.656-00 R_RecID
+2015-04-06 10:51:03 INF: 5103.683-00 Упаковка таблицы
+2015-04-06 10:51:03 INF: 5103.683-00 P_ImpDatas
+2015-04-06 10:51:03 INF: 5103.782-00 Упаковка таблицы
+2015-04-06 10:51:03 INF: 5103.782-00 R_Reports
+2015-04-06 10:51:03 INF: 5103.870-00 Упаковка таблицы
+2015-04-06 10:51:03 INF: 5103.870-00 R_Accesses
+2015-04-06 10:51:03 INF: 5103.875-00 Упаковка таблицы
+2015-04-06 10:51:03 INF: 5103.875-00 R_Setups
+2015-04-06 10:51:03 INF: 5103.903-00 Соединение с БД.
+2015-04-06 10:51:03 INF: 5103.903-00 Тип соеднинения: серверная
+2015-10-07 09:45:24 INF: 4524.112-00 Соединение с БД.
+2015-10-07 09:45:24 INF: 4524.112-00 Тип соеднинения: серверная
+2015-10-07 09:45:24 ERR: 4524.413-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-10-07 09:45:30 INF: 4530.498-00 Соединение с БД.
+2015-10-07 09:45:30 INF: 4530.498-00 Тип соеднинения: серверная
+2015-10-07 09:45:30 INF: 4530.800-00 Отправка e-mail
+2015-10-07 09:45:30 INF: 4530.800-00 Socket Error # 10051
+Network is unreachable.
+2015-10-07 09:45:30 INF: 4530.800-10 Отправка e-mail. Хост: 189.141.1.16
+2015-10-07 09:45:30 INF: 4530.800-20 Порт: 25
+2015-10-07 09:45:30 INF: 4530.800-30 Имя пользователя: plcard
+2015-10-07 09:45:30 INF: 4530.800-40 Пароль: 
+2015-10-07 09:45:30 INF: 4530.800-50 Из адреса: khulugov@agroinvestbank.tj
+2015-10-07 09:45:30 INF: 4530.800-60 От имени: Хуршед
+2015-10-07 09:45:31 INF: 4531.011-00 Создание серверного бэкапа
+2015-10-07 09:45:31 ERR: 4531.034-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.038-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.ai. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.042-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.am. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.058-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Branches.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.061-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Branches.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.067-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_CardProducts.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.070-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_CardProducts.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.091-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Setups.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.096-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Users.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.101-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssDetails.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.104-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssDetails.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.109-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssHeads.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 ERR: 4531.112-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssHeads.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2015-10-07 09:45:31 INF: 4531.173-00 Создана архивная копия БД: D:\Construc\DelphiXE7\ProCards\DBBackup\DBA20151007094531.zip
+2015-10-07 09:45:31 INF: 4531.284-00 Упаковка таблицы
+2015-10-07 09:45:31 INF: 4531.284-00 R_CardProducts
+2015-10-07 09:45:31 INF: 4531.297-00 Упаковка таблицы
+2015-10-07 09:45:31 INF: 4531.297-00 S_IssHeads
+2015-10-07 09:45:31 INF: 4531.317-00 Упаковка таблицы
+2015-10-07 09:45:31 INF: 4531.317-00 S_IssDetails
+2015-10-07 09:45:31 INF: 4531.330-00 Упаковка таблицы
+2015-10-07 09:45:31 INF: 4531.330-00 R_Branches
+2015-10-07 09:45:31 ERR: 4531.379-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2015-10-07 09:45:31 ERR: 4531.379-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Users')
+2015-10-07 09:45:31 INF: 4531.393-00 Упаковка таблицы
+2015-10-07 09:45:31 INF: 4531.393-00 R_RecID
+2015-10-07 09:45:31 INF: 4531.405-00 Упаковка таблицы
+2015-10-07 09:45:31 INF: 4531.405-00 P_ImpDatas
+2015-10-07 09:45:31 INF: 4531.474-00 Упаковка таблицы
+2015-10-07 09:45:31 INF: 4531.474-00 R_Reports
+2015-10-07 09:45:31 INF: 4531.498-00 Упаковка таблицы
+2015-10-07 09:45:31 INF: 4531.498-00 R_Accesses
+2015-10-07 09:45:31 INF: 4531.520-00 Упаковка таблицы
+2015-10-07 09:45:31 INF: 4531.520-00 R_Setups
+2015-10-07 09:45:31 INF: 4531.530-00 Соединение с БД.
+2015-10-07 09:45:31 INF: 4531.530-00 Тип соеднинения: серверная
+2015-10-07 09:58:10 INF: 5810.359-00 Соединение с БД.
+2015-10-07 09:58:10 INF: 5810.359-00 Тип соеднинения: серверная
+2015-10-07 10:21:30 INF: 2130.756-00 Соединение с БД.
+2015-10-07 10:21:30 INF: 2130.756-00 Тип соеднинения: серверная
+2015-10-07 10:37:48 INF: 3748.523-00 Соединение с БД.
+2015-10-07 10:37:48 INF: 3748.523-00 Тип соеднинения: серверная
+2015-10-07 10:37:48 ERR: 3748.577-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-10-07 10:37:53 INF: 3753.887-00 Соединение с БД.
+2015-10-07 10:37:53 INF: 3753.887-00 Тип соеднинения: серверная
+2015-10-07 10:38:16 ERR: 3816.570-00 Формирование акта о списании по картам и ПИН конвертам. Method 'Merge' not supported by automation object
+2015-10-07 10:38:16 ERR: 3816.570-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2012-01-07' and '2012-10-07') Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName Order by Branch
+2015-10-07 11:21:49 INF: 2149.143-00 Соединение с БД.
+2015-10-07 11:21:49 INF: 2149.143-00 Тип соеднинения: серверная
+2015-10-07 11:26:01 INF: 2601.798-00 Соединение с БД.
+2015-10-07 11:26:01 INF: 2601.798-00 Тип соеднинения: серверная
+2015-10-07 11:26:22 ERR: 2622.489-00 Формирование акта о списании по картам и ПИН конвертам. Несовпадение типов
+2015-10-07 11:26:22 ERR: 2622.489-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2012-01-07' and '2012-10-07') Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName Order by Branch
+2015-10-07 11:27:18 INF: 2718.706-00 Соединение с БД.
+2015-10-07 11:27:18 INF: 2718.706-00 Тип соеднинения: серверная
+2015-10-07 11:27:37 ERR: 2737.675-00 Формирование акта о списании по картам и ПИН конвертам. Несовпадение типов
+2015-10-07 11:27:37 ERR: 2737.675-01 SQL: Select S_IssHeads.Branch,R_Branches.Name as BranchName,R_CardProducts.Name,S_IssDetails.CardCost,Count(S_IssDetails.RRowID) as CardsCount,Sum(S_IssDetails.CardCost) as CardsCost from S_IssDetails Left Outer Join R_CardProducts on S_IssDetails.CardProduct = R_CardProducts.Code Left Outer Join S_IssHeads on S_IssDetails.RPackID = S_IssHeads.RRowID Left Outer Join R_Branches on S_IssHeads.Branch = R_Branches.Code Where (PackDate Between '2012-01-07' and '2012-10-07') Group by R_CardProducts.Name, S_IssDetails.CardCost, S_IssHeads.Branch, BranchName Order by Branch
+2015-10-07 12:27:15 INF: 2715.292-00 Соединение с БД.
+2015-10-07 12:27:15 INF: 2715.292-00 Тип соеднинения: серверная
+2015-10-07 12:27:15 ERR: 2715.362-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-10-07 12:27:18 INF: 2718.465-00 Соединение с БД.
+2015-10-07 12:27:18 INF: 2718.465-00 Тип соеднинения: серверная
+2015-10-07 12:36:28 INF: 3628.044-00 Соединение с БД.
+2015-10-07 12:36:28 INF: 3628.044-00 Тип соеднинения: серверная
+2015-10-07 12:42:36 INF: 4236.667-00 Соединение с БД.
+2015-10-07 12:42:36 INF: 4236.667-00 Тип соеднинения: серверная
+2015-10-07 12:42:36 ERR: 4236.725-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2015-10-07 12:42:46 INF: 4246.027-00 Соединение с БД.
+2015-10-07 12:42:46 INF: 4246.027-00 Тип соеднинения: серверная
+2015-10-07 12:44:54 INF: 4454.339-00 Соединение с БД.
+2015-10-07 12:44:54 INF: 4454.339-00 Тип соеднинения: серверная
+2017-02-13 14:58:03 INF: 5803.675-00 Соединение с БД.
+2017-02-13 14:58:03 INF: 5803.675-00 Тип соеднинения: серверная
+2017-02-13 14:58:03 ERR: 5803.832-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2017-02-13 14:58:15 INF: 5815.446-00 Соединение с БД.
+2017-02-13 14:58:15 INF: 5815.446-00 Тип соеднинения: серверная
+2017-02-13 14:58:15 ERR: 5815.463-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2017-02-13 14:58:21 INF: 5821.365-00 Соединение с БД.
+2017-02-13 14:58:21 INF: 5821.365-00 Тип соеднинения: серверная
+2017-02-13 14:58:21 ERR: 5821.382-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2017-02-13 14:59:28 INF: 5928.207-00 Соединение с БД.
+2017-02-13 14:59:28 INF: 5928.207-00 Тип соеднинения: серверная
+2017-02-13 14:59:28 ERR: 5928.225-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2017-02-13 14:59:49 INF: 5949.068-00 Соединение с БД.
+2017-02-13 14:59:49 INF: 5949.068-00 Тип соеднинения: серверная
+2017-02-13 14:59:49 ERR: 5949.090-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2017-02-13 14:59:57 INF: 5957.147-00 Соединение с БД.
+2017-02-13 14:59:57 INF: 5957.147-00 Тип соеднинения: серверная
+2017-02-13 14:59:57 ERR: 5957.163-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2017-02-13 15:03:33 INF: 0333.221-00 Соединение с БД.
+2017-02-13 15:03:33 INF: 0333.221-00 Тип соеднинения: серверная
+2017-02-13 15:03:33 ERR: 0333.238-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2017-02-13 15:03:37 INF: 0337.611-00 Соединение с БД.
+2017-02-13 15:03:37 INF: 0337.611-00 Тип соеднинения: серверная
+2017-02-13 15:03:37 ERR: 0337.626-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2017-02-13 15:03:41 INF: 0341.558-00 Соединение с БД.
+2017-02-13 15:03:41 INF: 0341.558-00 Тип соеднинения: серверная
+2017-02-13 15:04:03 INF: 0403.260-00 Отправка e-mail
+2017-02-13 15:04:03 INF: 0403.260-00 Socket Error # 10060
+Connection timed out.
+2017-02-13 15:04:03 INF: 0403.260-10 Отправка e-mail. Хост: 189.141.1.16
+2017-02-13 15:04:03 INF: 0403.260-20 Порт: 25
+2017-02-13 15:04:03 INF: 0403.260-30 Имя пользователя: plcard
+2017-02-13 15:04:03 INF: 0403.260-40 Пароль: 
+2017-02-13 15:04:03 INF: 0403.260-50 Из адреса: khulugov@agroinvestbank.tj
+2017-02-13 15:04:03 INF: 0403.260-60 От имени: Хуршед
+2017-02-13 15:04:03 INF: 0403.585-00 Создание серверного бэкапа
+2017-02-13 15:04:03 ERR: 0403.587-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.588-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.ai. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.589-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.am. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.655-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Branches.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.657-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Branches.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.670-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_CardProducts.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.672-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_CardProducts.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.712-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Setups.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.725-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Users.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.735-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssDetails.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.736-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssDetails.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.754-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssHeads.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 ERR: 0403.755-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssHeads.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-02-13 15:04:03 INF: 0403.815-00 Создана архивная копия БД: D:\Construc\DelphiXE7\ProCards\DBBackup\DBA20170213150403.zip
+2017-02-13 15:04:03 INF: 0403.834-00 Упаковка таблицы
+2017-02-13 15:04:03 INF: 0403.834-00 R_CardProducts
+2017-02-13 15:04:03 INF: 0403.842-00 Упаковка таблицы
+2017-02-13 15:04:03 INF: 0403.842-00 S_IssHeads
+2017-02-13 15:04:03 INF: 0403.854-00 Упаковка таблицы
+2017-02-13 15:04:03 INF: 0403.854-00 S_IssDetails
+2017-02-13 15:04:03 INF: 0403.861-00 Упаковка таблицы
+2017-02-13 15:04:03 INF: 0403.861-00 R_Branches
+2017-02-13 15:04:03 ERR: 0403.862-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2017-02-13 15:04:03 ERR: 0403.862-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Users')
+2017-02-13 15:04:03 INF: 0403.868-00 Упаковка таблицы
+2017-02-13 15:04:03 INF: 0403.868-00 R_RecID
+2017-02-13 15:04:03 INF: 0403.874-00 Упаковка таблицы
+2017-02-13 15:04:03 INF: 0403.874-00 P_ImpDatas
+2017-02-13 15:04:03 INF: 0403.887-00 Упаковка таблицы
+2017-02-13 15:04:03 INF: 0403.887-00 R_Reports
+2017-02-13 15:04:03 INF: 0403.894-00 Упаковка таблицы
+2017-02-13 15:04:03 INF: 0403.894-00 R_Accesses
+2017-02-13 15:04:03 INF: 0403.899-00 Упаковка таблицы
+2017-02-13 15:04:03 INF: 0403.899-00 R_Setups
+2017-02-13 15:04:03 INF: 0403.906-00 Соединение с БД.
+2017-02-13 15:04:03 INF: 0403.906-00 Тип соеднинения: серверная
+2017-05-27 00:06:58 INF: 0658.509-00 Соединение с БД.
+2017-05-27 00:06:58 INF: 0658.509-00 Тип соеднинения: серверная
+2017-05-27 00:06:58 ERR: 0658.869-00 Вход в программу. Путь к БД:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. [FireDAC][Phys][ADS] Error 7078:  The Advantage Database Server cannot authenticate the user.  Make sure the user name and password are correct.  axServerConnect
+2017-05-27 00:07:06 INF: 0706.054-00 Соединение с БД.
+2017-05-27 00:07:06 INF: 0706.054-00 Тип соеднинения: серверная
+2017-05-27 00:07:27 INF: 0727.680-00 Отправка e-mail
+2017-05-27 00:07:27 INF: 0727.680-00 Socket Error # 10060
+Connection timed out.
+2017-05-27 00:07:27 INF: 0727.680-10 Отправка e-mail. Хост: 189.141.1.16
+2017-05-27 00:07:27 INF: 0727.680-20 Порт: 25
+2017-05-27 00:07:27 INF: 0727.680-30 Имя пользователя: plcard
+2017-05-27 00:07:27 INF: 0727.680-40 Пароль: 
+2017-05-27 00:07:27 INF: 0727.680-50 Из адреса: khulugov@agroinvestbank.tj
+2017-05-27 00:07:27 INF: 0727.680-60 От имени: Хуршед
+2017-05-27 00:07:28 INF: 0728.026-00 Создание серверного бэкапа
+2017-05-27 00:07:28 ERR: 0728.030-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.add. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.032-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.ai. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.034-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\ProCards.am. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.082-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Branches.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.083-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Branches.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.104-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_CardProducts.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.105-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_CardProducts.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.135-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Setups.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.148-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\R_Users.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.159-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssDetails.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.160-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssDetails.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.177-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssHeads.adi. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 ERR: 0728.178-00 Копия БД. Копирование файла:D:\Construc\DelphiXE7\ProCards\DBase\S_IssHeads.adt. Процесс не может получить доступ к файлу, так как этот файл занят другим процессом
+2017-05-27 00:07:28 INF: 0728.288-00 Создана архивная копия БД: D:\Construc\DelphiXE7\ProCards\DBBackup\DBA20170527000728.zip
+2017-05-27 00:07:28 INF: 0728.304-00 Упаковка таблицы
+2017-05-27 00:07:28 INF: 0728.304-00 R_CardProducts
+2017-05-27 00:07:28 INF: 0728.339-00 Упаковка таблицы
+2017-05-27 00:07:28 INF: 0728.339-00 S_IssHeads
+2017-05-27 00:07:28 INF: 0728.349-00 Упаковка таблицы
+2017-05-27 00:07:28 INF: 0728.349-00 S_IssDetails
+2017-05-27 00:07:28 INF: 0728.357-00 Упаковка таблицы
+2017-05-27 00:07:28 INF: 0728.357-00 R_Branches
+2017-05-27 00:07:28 ERR: 0728.358-00 Упаковка таблиц БД. [FireDAC][Phys][ADS] Error 7200:  AQE Error:  State = HY000;   NativeError = 7008;  [iAnywhere Solutions][Advantage SQL][ASA] Error 7008:  The specified table, memo file, or index file was unable to be opened.
+2017-05-27 00:07:28 ERR: 0728.358-01 SQL: EXECUTE PROCEDURE sp_PackTable('R_Users')
+2017-05-27 00:07:28 INF: 0728.365-00 Упаковка таблицы
+2017-05-27 00:07:28 INF: 0728.365-00 R_RecID
+2017-05-27 00:07:28 INF: 0728.372-00 Упаковка таблицы
+2017-05-27 00:07:28 INF: 0728.372-00 P_ImpDatas
+2017-05-27 00:07:28 INF: 0728.408-00 Упаковка таблицы
+2017-05-27 00:07:28 INF: 0728.408-00 R_Reports
+2017-05-27 00:07:28 INF: 0728.430-00 Упаковка таблицы
+2017-05-27 00:07:28 INF: 0728.430-00 R_Accesses
+2017-05-27 00:07:28 INF: 0728.436-00 Упаковка таблицы
+2017-05-27 00:07:28 INF: 0728.436-00 R_Setups
+2017-05-27 00:07:28 INF: 0728.444-00 Соединение с БД.
+2017-05-27 00:07:28 INF: 0728.444-00 Тип соеднинения: серверная
